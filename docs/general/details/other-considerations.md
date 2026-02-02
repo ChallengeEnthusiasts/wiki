@@ -10,6 +10,27 @@ For T1 games, we simply value the games assuming they are played "as intended". 
 
 For T2+ games we simply require video/screenshot proof showing these options weren't used. In cases where these features exist but they have a relatively minor impact on the challenges of the game, then they are assumed to be used to their full extent and are just valued accordingly.
 
+## Tier 1 Leniency
+
+At its core, the concept of 'T1 Leniency' is that any game may have up to 15 points (the top of the 'Tier 1' threshold) of objectives awarded without proof where:
+- Full proof would be overly burdensome (eg: 6 hours of video proof – please note though that there is no defined threshold for ‘overly burdensome’)
+- PO outcomes (eg: achievement, other in-game recognition) can be obtained with assist options enabled.
+   - This should not mean that a high valued YOLO (for example) should be awarded partial points up to 15 when the owner/player count is low and accessibility use is rampant (eg: [Scoot Kaboom and the Tomb of Doom](https://cedb.me/game/b2396993-cef0-40b4-8635-99b13a015383))
+- Other complications exist, such as:
+   - Glitches allowing for developer-recognised feats to be made substantially easier (eg: [Squidlit](https://cedb.me/game/79fafe6f-5c42-4aba-a020-9d97ded264ee), [VVVVVV](https://cedb.me/game/e7b09b01-e52f-443e-97a3-cd1aac854b3f)'s YOLO)
+   - Later-released DLC tracks (in the case of rhythm games) contribute to an in-game tracker (eg: [DEEMO - Reborn-](https://cedb.me/game/071209da-f9f9-4cfa-aae3-0d7f9811ba9f))
+
+In these cases, the value is set based on the assumption/expectation that the challenge was undertaken at face value, without actively seeking out ways to bypass the challenge as set out by the developer.
+
+There are, however, situations where this leniency would not be applied, such as:
+- There is a broken achievement which unlocks incorrectly; the achievement signals developer intent, and serves as a PO goal. Proof would be required (eg: [Rex Rocket](https://cedb.me/game/c3f9646b-c301-44e8-9455-e8bcbf3114a5) sub-10 deaths).
+- A prolific Steam guide exists which details console commands (or similar) that automatically award, or completely trivialise, an achievement.
+   - This is likely subject to how simply proof can be provided to prove this method not utilised.
+- Points would be awarded to a high number of users that have clearly utilised a workaround within Steam (eg: rolling back to an earlier build that awarded achievements with accessibility options).
+   - This would be at the discretion of the moderators, and may change for an individual game over time depending on the circumstances.
+   - A token number of partial points may be awarded to recognise those that legitimately achieved the objective (eg: [Sunblaze](https://cedb.me/game/58025692-ffe1-4996-8bae-dade878e8868))
+
+
 
 ## Cheating 
 Separate from in-game cheating using dev-provided cheat codes or accessibility options.

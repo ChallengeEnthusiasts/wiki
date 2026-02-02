@@ -1,6 +1,14 @@
 # Objectives
 
-This is a TEMPORARY placeholder for objective definitions.
+::: danger PLEASE NOTE
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+
+This is a TEMPORARY placeholder for objective definitions - for the Admin team's discussion and write up.
+
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+:::
+
+
 
 Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.
 
