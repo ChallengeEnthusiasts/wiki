@@ -88,6 +88,6 @@ export default defineConfig({
   },
   lastUpdated: true,
   appearance: 'force-dark',
-  base: '/wiki/',
+  base: '/',
   head: [['link', { rel: 'icon', href: '/CE_documentation/favicon.ico' }]]
 });
