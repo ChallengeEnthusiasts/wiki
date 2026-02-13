@@ -25,7 +25,7 @@ features:
   - icon: 🗒️
     title: Submit proof
     details: For objectives that aren't automatically granted through achievements.
-	link: /general/#how-do-i-submit-proof
+    link: /general/#how-do-i-submit-proof
 
 ---
 <style>
