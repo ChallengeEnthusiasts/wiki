@@ -78,7 +78,7 @@ export default defineConfig({
       },
       {
         icon: "github",
-        link: "https://github.com/Folkius/CE_documentation"
+        link: "https://github.com/ChallengeEnthusiasts/wiki/"
       },
       {
         icon: "steam",
