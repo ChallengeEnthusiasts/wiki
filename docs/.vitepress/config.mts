@@ -18,9 +18,9 @@ export default defineConfig({
 		text: 'The Basics',
 		items: [
 		  { text: 'Introduction', link: '/general/index' },
-		  { text: 'Using the CE website', link: '/general/the-basics' },
-		  { text: 'Creating a profile', link: '/general/creating-profile' },
-		  { text: 'How do I submit proof?', link: '/general/submitting-proof' },
+		  { text: 'Using the CE Website', link: '/general/the-basics' },
+		  { text: 'Creating a Profile', link: '/general/creating-profile' },
+		  { text: 'How Do I Submit Proof?', link: '/general/submitting-proof' },
 		  { text: 'Rules and Administration', link: '/general/details/rules-admin' }
 		]
       },
@@ -29,7 +29,7 @@ export default defineConfig({
         items: [
 		  { text: 'The DIRE Framework', link: '/general/details/dire' },
 		  { text: 'Points & Tiers', link: '/general/details/points-tiers' },
-		  { text: 'CE Rating', link: '/general/details/ce-rating' },
+		  { text: 'CE Rating (CR)', link: '/general/details/ce-rating' },
           { text: 'Objective Types', link: '/general/details/objectives' },
 		  { text: 'Game Categories', link: '/general/details/categories' },
 		  { text: 'Game Tags', link: '/general/details/tags' }

@@ -1,4 +1,4 @@
-# Categories
+# Game Categories
 -----------
 CE organizes all games on the site into six distinct groups, which we call categories. These include Action, Arcade, Bullet Hell, First Person, Platformer, and Strategy.
 

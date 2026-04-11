@@ -1,11 +1,9 @@
-# Game tags
+# Game Tags
 
-::: danger PLEASE NOTE
+::: warning NOTE
 ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 
-This feature has not been implemented on the site.
-
-The page has been written based on expected functionality, and does not guarantee the implementation will align with what has been documented here.
+The page has been written months ago based on expected functionality, and has yet to confirm whether it's aligned with the current implementation.
 
 ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 :::

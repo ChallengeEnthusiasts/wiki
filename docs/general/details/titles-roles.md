@@ -1,4 +1,4 @@
-# Site titles
+# Site Titles and Roles
 
 Users registered on the site are eligible to earn titles that will appear on your profile.
 A number of these titles are also awarded as roles to a user's Discord profile on the CE server.

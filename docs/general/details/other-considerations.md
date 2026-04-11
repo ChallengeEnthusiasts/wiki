@@ -1,4 +1,4 @@
-# Other considerations
+# Other Considerations
 -----------------------------
 As you would expect with a system that is based upon many different processes and structures, there are sometimes components that aren't purely black or white.
 
