@@ -1,3 +1,13 @@
+---
+prev:
+    text: CE Bot Utilities
+    link: /general/ce-bots
+
+next:
+    text: Helpful Links
+    link: /general/details/links
+---
+
 # Contacting CE staff - The Ticket system
 
 The CE Discord utilises a Ticket Tool for communication with CE staff, which can be found in the ```#support``` channel of the Discord server.

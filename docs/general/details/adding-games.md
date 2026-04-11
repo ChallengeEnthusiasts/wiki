@@ -87,6 +87,9 @@ There are several reasons you would want to make an adjustment to a game. Some o
 
 The general rules still apply: talking about point values in any non-speculative manner would require you to clear a relevant objective for the game.
 
+## Objective rules
+
+Tier and Objective guidelines can be found in previous sections of this guide.
 
 ## Removals
 
@@ -123,13 +126,10 @@ The number of clearers to ping will be at the discretion of the Rep handling the
 The next step will require a level of judgement, but may take one of several forms:
 - Game removal/maintenance if there broad consensus on that outcome
 - Seeking further input from clearers not pinged initially, if there a sufficient user base
-- Application of the "Site Eligibility Under Dispute" information tag the game should there be limited available input, or conflicting viewpoints
+- *(Hypotethical):* Application of the "Site Eligibility Under Dispute" information tag to the game should there be limited available input, or conflicting viewpoints
   - The thread will remain open, and further input from new clearers will be required.
   - The number of new clearers' input should be informed by the user base (eg: a game with 3 clearers may only need 1 additional user's input, whilst a game with 50 might require 3)
 
-## Objective rules
-
-Tier and Objective guidelines can be found in previous sections of this guide.
 
 ## Quality Guidelines
 

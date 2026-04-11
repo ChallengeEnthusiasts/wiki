@@ -30,12 +30,12 @@ export default defineConfig({
 		  { text: 'The DIRE Framework', link: '/general/details/dire' },
 		  { text: 'Points & Tiers', link: '/general/details/points-tiers' },
 		  { text: 'CE Rating (CR)', link: '/general/details/ce-rating' },
-          { text: 'Objective Types', link: '/general/details/objectives' },
+      { text: 'Objective Types', link: '/general/details/objectives' },
 		  { text: 'Game Categories', link: '/general/details/categories' },
 		  { text: 'Game Tags', link: '/general/details/tags' }
         ]
       },
-	  {
+	    {
         text: 'Adding / Valuing Games',
         items: [
 		  { text: 'Game Additions', link: '/general/details/adding-games' },
@@ -43,7 +43,7 @@ export default defineConfig({
           { text: 'Other Considerations', link: '/general/details/other-considerations' }
         ]
       },
-	  {
+	    {
         text: 'Features and Functionality',
         items: [
 		  { text: 'Casino', link: '/general/details/casino' },
@@ -56,10 +56,10 @@ export default defineConfig({
       {
         text: 'Other',
         items: [
-        { text: 'Staff - Current/Past', link: 'general/staff' },
-		{ text: 'CE Bot Utilities', link: 'general/ce-bots' },
-		{ text: 'Contacting Mods/Admins', link: 'general/ticketing' },
-		{ text: 'Helpful Links', link: 'general/details/links' }
+        { text: 'Staff - Current/Past', link: '/general/staff' },
+        { text: 'CE Bot Utilities', link: '/general/ce-bots' },
+        { text: 'Contacting Mods/Admins', link: '/general/ticketing' },
+        { text: 'Helpful Links', link: '/general/details/links' }
         ]
       }
       //{

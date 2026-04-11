@@ -1,12 +1,12 @@
 # Points and Tiers
 
-Points are the main metric used on the site. They are represented by a gray star :star:. 
+Points are the main metric used on the site. They are represented by a gray star. ![Gray star](/icons/ce_points.png){width=32px height=32px} 
 
 The primary use for points are:
-- position on the leaderboard (including filtered leaderboards by [category](/general/details/categories)
-- calculating [CE Rating](/general/details/ce-rating)
-- categorising games into [tiers](/general/details/points-tiers#tiers)
-- assigning users a rank
+- positioning on the leaderboard (including filtered leaderboards by [category](/general/details/categories));
+- calculating [CE Rating](/general/details/ce-rating);
+- categorising games into [tiers](/general/details/points-tiers#tiers);
+- assigning users a rank.
 
 Points can only be earned from completing [primary or secondary objectives](/general/details/objectives) in games listed on the site.
 
