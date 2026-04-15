@@ -1,4 +1,4 @@
-# Valuing games; an analogy
+# Valuing Games (an analogy)
 
 *Consider the structure for valuing a game like climbing a mountain...*
 

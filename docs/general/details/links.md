@@ -1,3 +1,9 @@
+---
+prev:
+    text: Contacting Mods/Admins
+    link: /general/ticketing
+---
+
 # Helpful links
 
 TBD - centralising documents that have been linked to across the Discord.

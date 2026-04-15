@@ -265,7 +265,7 @@ If the user doesn't want price, or time to complete, to be a restriction on the 
 
 Similarly, co-operative rolls can be accessed using the ```/coop-roll``` command.
 
-![Co-op1](/casino/casino02.png)
+![Co-op1](/casino/casino05.png)
 
 In the case of co-operative rolls, you will also need to select your partner - they will then be pinged to confirm they wish to participate in the roll.
 

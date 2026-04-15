@@ -2,6 +2,10 @@
 prev:
     text: About our Staff
     link: /general/staff
+
+next:
+    text: Contacting Mods/Admins
+    link: /general/ticketing
 ---
 
 # An introduction to our server bots

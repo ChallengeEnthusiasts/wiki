@@ -18,9 +18,9 @@ export default defineConfig({
 		text: 'The Basics',
 		items: [
 		  { text: 'Introduction', link: '/general/index' },
-		  { text: 'Using the CE website', link: '/general/the-basics' },
-		  { text: 'Creating a profile', link: '/general/creating-profile' },
-		  { text: 'How do I submit proof?', link: '/general/submitting-proof' },
+		  { text: 'Using the CE Website', link: '/general/the-basics' },
+		  { text: 'Creating a Profile', link: '/general/creating-profile' },
+		  { text: 'How Do I Submit Proof?', link: '/general/submitting-proof' },
 		  { text: 'Rules and Administration', link: '/general/details/rules-admin' }
 		]
       },
@@ -29,13 +29,13 @@ export default defineConfig({
         items: [
 		  { text: 'The DIRE Framework', link: '/general/details/dire' },
 		  { text: 'Points & Tiers', link: '/general/details/points-tiers' },
-		  { text: 'CE Rating', link: '/general/details/ce-rating' },
-          { text: 'Objective Types', link: '/general/details/objectives' },
+		  { text: 'CE Rating (CR)', link: '/general/details/ce-rating' },
+      { text: 'Objective Types', link: '/general/details/objectives' },
 		  { text: 'Game Categories', link: '/general/details/categories' },
 		  { text: 'Game Tags', link: '/general/details/tags' }
         ]
       },
-	  {
+	    {
         text: 'Adding / Valuing Games',
         items: [
 		  { text: 'Game Additions', link: '/general/details/adding-games' },
@@ -43,7 +43,7 @@ export default defineConfig({
           { text: 'Other Considerations', link: '/general/details/other-considerations' }
         ]
       },
-	  {
+	    {
         text: 'Features and Functionality',
         items: [
 		  { text: 'Casino', link: '/general/details/casino' },
@@ -56,10 +56,10 @@ export default defineConfig({
       {
         text: 'Other',
         items: [
-        { text: 'Staff - Current/Past', link: 'general/staff' },
-		{ text: 'CE Bot Utilities', link: 'general/ce-bots' },
-		{ text: 'Contacting Mods/Admins', link: 'general/ticketing' },
-		{ text: 'Helpful Links', link: 'general/details/links' }
+        { text: 'Staff - Current/Past', link: '/general/staff' },
+        { text: 'CE Bot Utilities', link: '/general/ce-bots' },
+        { text: 'Contacting Mods/Admins', link: '/general/ticketing' },
+        { text: 'Helpful Links', link: '/general/details/links' }
         ]
       }
       //{
@@ -78,7 +78,7 @@ export default defineConfig({
       },
       {
         icon: "github",
-        link: "https://github.com/Folkius/CE_documentation"
+        link: "https://github.com/ChallengeEnthusiasts/wiki/"
       },
       {
         icon: "steam",
