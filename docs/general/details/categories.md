@@ -74,6 +74,32 @@ Commonly associated genres include Deckbuilders, Grand Strategy, Traditional Rog
 
 Site examples include: [Slay the Spire](https://cedb.me/game/f5002235-3248-453d-93b8-b96736bb4712), [FTL: Faster Than Light](https://cedb.me/game/07f1f861-9e2a-4606-966d-bf2b9312348e), [Peggle Deluxe](https://cedb.me/game/fc2a85fc-690c-4e44-8c07-3e60137b8a58)
 
+## Multiple categories
+
+As of the update in April 2026, a single game may now have multiple categories applied to it.  
+
+Application of multiple categories to a single game should only be made when the difficulty (represented in the point values assigned to the game) arises from characteristics of each category at similar levels.
+
+There is a soft "60/40" threshold for the application of 2 categories - if the defining source of difficulty for the game from a single category exceeds 60% (eg: a 70/30 split), then the game will have just a single category assigned.
+
+### Situations requiring Admin approval
+
+#### More than 2 categories
+Should the difficulty for a single game arise from more than 2 categories, and in equal ratios, Admin approval is required to have multiple categories applied.  
+This is due to the potential multiplier effect, and implications on leaderboards, [CR](/general/details/ce-rating), and other downstream impacts (eg: the [Master of All role](/general/details/titles-roles.html#category-specific)).
+
+In an extreme hypothetical example, a 120 point game with all 6 categories applied would award 720 total points, or a 6x multiplier to any individual category's worth (20 points of difficulty per category, but 120 points earned in each category).  
+In this case, with no defining major category, it is most likely to fall into Arcade, under the "Remaining" R6 sub-category.
+
+Due to the implications set out above, it is unlikely a game higher than Tier 1 will be approved to have more than 2 categories.
+
+#### Applying multiple categories to a high-value games
+
+For the same reasons as set out above, the potential implications of multiple categories being applied to a high-tier game can be material to a number of aspects of CE.
+
+A game being put forward for multiple categories, **with a value of 100 or more** requires Admin approval.
+
+
 ## FAQ
 
 ### How do you decide where each game is categorised?

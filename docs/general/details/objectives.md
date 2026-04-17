@@ -26,7 +26,7 @@ Examples include:
 - Completing difficulties and modes (that terminate).
 - Assigned unambiguous thresholds of competency (grades, medals, ranks, badges). May be paired with difficulties and modes. For example, two modes, - Campaign and Boss Rush, both have Normal and Hard difficulties, the player is awarded a grade based on performance from D-A, A ranks would be PO in both modes on Hard. These do not need to be permanent.
 - Readily accessed physical content that is not deeply hidden or obscure. Bonus levels.
-- Tracked collectibles (the collectibles must be permanent, a mode that terminates itself under criteria other than intentional manual deletion are exempt).
+- Tracked collectables (the collectables must be permanent, a mode that terminates itself under criteria other than intentional manual deletion are exempt).
 
 ### Difficulty order
 Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.
@@ -39,17 +39,20 @@ Anything that can be argued to fall within **DIRE** that is not immediately obvi
 
 Examples include:
 - Levels behaving differently based on a specific and unique play pattern.
+- Where a modifier is only selectable before a run starts, and cannot be changed or turned off mid-run, and the modifier is intended or presented to the player as a means of making the run more challenging, then beating the game with just that modifier (and no other modifiers).
+  - Combinations of modifiers are not grounds for inclusion as an SO, absent other indication of developer intent or encouragement.
+- Placement on a leaderboard found in game, 
 - Ambiguous rewards based on performance (impermanent minor changes in cutscenes).
 - Challenges found on or presented by a developer through the platform in which the game was published on. Challenges seen in officially published game manuals, or developer made content through the steam workshop for example.
 - Developer curated community made content within a game (varying degrees of curation may be on a case by case basis); challenges within that content are exempt unless also explicitly encouraged by the developers (for example, beating curated maps from Track Central in Trials, but not getting diamond medals on them).
-- Impermanent collectibles.
+- Impermanent collectables.
 - Easter eggs (within reason).
-- Developer expressed encouragement to attempt something found consistently and unambiguously within a game.
+- Developer expressed encouragement to attempt something found consistently and unambiguously **within the game** (i.e. not a developer post on Twitter, text in a Steam update, etc).
 - Multiple playable characters for existing PO content (does not pair with thresholds of competency unless uniquely tracked / balanced for it)
-Solo mode completions in games built for multiplayer where singleplayer is a selectable option (under consideration)
-- 1CC/one-credit-clear in games where credit use would result in score being voided or a game over is present (may be paired with difficulty, may not be paired with multiple characters/weapon types/ships/etc. unless tracked).
+- Solo mode completions in games built for multiplayer where singleplayer is a selectable option (under consideration)
+- 1CC/one-credit-clear in games where credit use would result in score being voided or a game over is present (may be paired with difficulty, may not be paired with multiple characters/weapon types/ships/etc unless tracked).
 - Rhythm ranks/grades which require timing/accuracy higher than that of an FC (subject to consideration / further refinement).
-- Weapon/item unlocks that are not explicitly tracked collectibles.
+- Weapon/item unlocks that are not explicitly tracked collectables.
 - Bonuses obtained through performance that are not directly associated with grades/ranks. (1-ups, extra lives, etc. if they would be hard enough.)
 - Beating pre-loaded high scores / times that are set by the dev and visible in a context where beating them is encouraged.
 
@@ -98,8 +101,8 @@ There have been rare cases, usually entire game overhauls, where we won't grandf
 ### "I still don't understand what SOs are! Why does it have to be so complicated?"
 This change has no negative aspects! If anything, it's a net positive.
 
-Back when we had either POs or COs, there were several hypotethical situations we met through the road that would thread a fine line between what could be one or the other. The result was potentially a (more) arbitrary choice.
-Including SOs on the list means that not only these obtuse situations (coloquially called "tomatos" :tomato:) can be solved without much issue, but that we can actually have a much more solid definition for what we consider the main focus of a game -that is, the POs-.
+Back when we had either POs or COs, there were several hypothetical situations we met through the road that would thread a fine line between what could be one or the other. The result was potentially a (more) arbitrary choice.
+Including SOs on the list means that not only these obtuse situations (colloquially called "tomatoes" :tomato:) can be solved without much issue, but that we can actually have a much more solid definition for what we consider the main focus of a game -that is, the POs-.
 
 Look at it in another way: nothing has been demoted from what would have been a PO originally to a CO. If anything, there are a few stuff that originally were COs that can now be included as SOs.
 
