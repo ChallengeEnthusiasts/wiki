@@ -59,7 +59,7 @@ Examples include:
 ## Community Objectives
 Also known as COs.
 
-They are everything else that can't be included in the above categories.
+These objectives are everything else that can't be included in the above categories.
 
 Traditionally made to be arbitrary challenges with no articulable representation in game. They're outside of the scope of **DIRE**.
 
@@ -68,6 +68,10 @@ No real rules for how they are structured, as long as they can be described clea
 Additionally, when something that would otherwise fit the criteria of a PO/SO (such as an achievement), but it ends up being redundant, grindy, dynamic in difficulty, or player vs player related (rarely), it may be relegated to CO.
 
 Optionally, they can also be created as checkpoints for a particularly hard objective, allowing to set milestones to practice on without going into intense segmentation between primary objectives.
+
+::: warning Difficulty thresholds
+Whilst objectives falling under the CO designation do not need to adhere to the DIRE framework, they still need to meet a notional '5 point' level of difficulty to be included as an objective.
+:::
 
 ## FAQ
 
