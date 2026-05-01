@@ -65,6 +65,8 @@ At present there are 9 site achievements relating to completing games (obtaining
 |![1b038220-14e4-4729-aa0d-40fb33cf06f0](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/658480662c2b1a1cabbe56131317021751365e03.jpg){width=65px height=65px}| Reading Rainbow | Complete all primary objectives for games whose name start with each letter of the English alphabet (A-Z). |
 |![5dba7a6b-da7d-46f7-82c5-a398921bf302](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/1bada8167b4439c70b876aa95e9dd950421fd6f1.jpg){width=65px height=65px}| Super Super Super Super Super Super Super Super Super Super Super Super Super Super Super Star | Obtain all primary objectives in 15 separate site listed games with "super" in their name. |
 |![01219982-d4fe-440f-8563-e629e79603d2](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/185c12f30061e62b12f5b1309707f6b50ceee21e.jpg){width=65px height=65px}| Steam Roller | Complete all Primary Objectives in 100 separate games on Steam. |
+|![c8102cd3-05b8-496f-b35b-c7e281dd6629](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/858dc235fe4c796ce2b6dc51186a568571bc0f39.jpg){width=65px height=65px}| This Pain is Free | Complete all primary objectives in 10 separate site listed games that cost no money on Steam. |
+|![b6ceac8f-8632-454d-8d4d-4ee6f5772a1d](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/dc45515992fa76bde881419333ae07842038202c.jpg){width=65px height=65px}| Zookeeper | Complete all primary objectives in 15 different site listed games where the main character is a non-human animal. |
 
 
 ## Objectives-based
@@ -82,8 +84,7 @@ At present there are 11 site achievements relating to completing objectives (but
 |![57a7bbbf-faf7-4c6c-9fd5-b37321d0aed3](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/df8bcb1d1529a3ed823621b47003fc0155a42e8e.jpg){width=65px height=65px}| Puzzle Grandmaster | Complete 10 separate objectives from the "Puzzle Games" list. |
 |![e9421910-c617-4625-ab6c-98b6997c5954](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/31404cbfdbb5983f3596637f74fd6bac194181d5.jpg){width=65px height=65px}| Tag Team | Obtain 5 Primary Objectives on the site in which completion requires or strongly implies the assistance of another player. |
 |![e43ef5a7-6168-4748-b1fc-268b02ca8ec1](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/6a43db62184e72810d9e422fea2546f8cb1a7aa7.jpg){width=65px height=65px}| This is to Go Even Further Beyond | Obtain 400 points or more from a single game.  |
-|![c8102cd3-05b8-496f-b35b-c7e281dd6629](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/858dc235fe4c796ce2b6dc51186a568571bc0f39.jpg){width=65px height=65px}| This Pain is Free | Complete all primary objectives in 10 separate site listed games that cost no money on Steam. |
-|![b6ceac8f-8632-454d-8d4d-4ee6f5772a1d](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/dc45515992fa76bde881419333ae07842038202c.jpg){width=65px height=65px}| Zookeeper | Complete all primary objectives in 15 different site listed games where the main character is a non-human animal. |
+
 
 
 ## Retro games

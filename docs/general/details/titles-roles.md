@@ -182,7 +182,7 @@ Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs
 | Elastic Re-Maniac | [Elasto Mania II](https://cedb.me/game/6fc3d0f5-0234-48ce-8b9e-bfd39e62ff1b) | Orange |
 | Legendary Marble Challenger | [Great Marble Adventure](https://cedb.me/game/e542ce6d-c7da-4def-a8b2-0ef99989c9e6) | Orange |
 | Hans | [Hans](https://cedb.me/game/6a2aa61b-8919-41c0-a0b6-6c0a68148524) | Orange |
-| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) * | Orange |
+| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) \* | Orange |
 | Aimbot | [KovaaK's](https://cedb.me/game/081c5f7d-b5c1-4f4d-9fa6-6eeafda71c20) | Orange |
 | Lovesick | [LOVE 3](https://cedb.me/game/d3b7e30c-cbe5-4404-8013-d79ef7b624ff) | Orange |
 | Nex Humanus | [Nex Machina](https://cedb.me/game/7c27ea8d-ad3c-4a61-888b-6fe8519a0e2a) | Orange |
@@ -190,7 +190,6 @@ Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs
 | Omnidirectional Sound Maestro | [Old School Musical](https://cedb.me/game/6cd5fb52-b137-448f-9203-ed74cd524e9e) | Orange |
 | Lightning Conduit | [Raiden IV: OverKill](https://cedb.me/game/739bc622-7db3-48e2-8eea-ee03e960c957) | Orange |
 | CEO | [Roto Force](https://cedb.me/game/f3622d64-791a-407d-8564-a579cb68de87) | Orange |
-| Phonophobe | [Soundodger 2](https://cedb.me/game/7918bc97-0c7b-48f9-b833-e9d781b91b95) | Orange |
 | Quart-God | [Super Cloudbuilt](https://cedb.me/game/f953f6bc-7d67-47f5-94d6-e7302da0fe1d) | Orange |
 | Meat Beater | [Super Meat Boy Forever](https://cedb.me/game/b6d65b4d-43e0-4547-9439-810f581b01fb) | Orange |
 | Magicgazer | [Sympathia](https://cedb.me/game/b6c466f3-8a57-47f5-b135-ac296a4d8b5f) | Orange |
@@ -226,10 +225,10 @@ The Secondary Objective moves the game to a Tier 5, and completion of all Primar
 | Dagger Deity | [Devil Daggers](https://cedb.me/game/f572d3dd-20b2-4ef2-9dfb-067201c408fd) | Yellow |
 | DOOMED | [DOOM Eternal](https://cedb.me/game/5d268c17-5bd0-4eeb-b40f-adc3a0289072) | Yellow |
 | Dust Destroyer | [Dustforce](https://cedb.me/game/50faeeb7-afd2-459d-946c-94b9b9b88b5d) | Yellow |
-| Bean Baron | [Garbanzo Quest](https://cedb.me/game/76ee4be2-007a-4df5-a452-a4fb040553e1) * | Yellow |
+| Legume Lord | [Garbanzo Quest](https://cedb.me/game/76ee4be2-007a-4df5-a452-a4fb040553e1) \* | Yellow |
 | Geometrical Dominator | [Geometry Dash](https://cedb.me/game/1f67cb6d-926b-4af5-877e-73d3050d4684) | Yellow |
 | Betelgeuse | [Gundemonium Recollection](https://cedb.me/game/723efa6d-298a-4cf9-a9b1-b142097ecc8c) | Yellow |
-| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) * | Yellow |
+| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) \* | Yellow |
 | Icebreaker | [How I Learned to Skate](https://cedb.me/game/8a6f7a68-c2f2-4df9-b798-a854dff09996) | Yellow |
 | Hyperboloid Prodigy | [HyperRogue](https://cedb.me/game/0783e71a-eade-4803-a961-87ae7e277978) | Yellow |
 | Final Form | [Jamestown](https://cedb.me/game/6c11d221-db46-443f-b1d1-84e351b95b5f) | Yellow |
@@ -243,7 +242,6 @@ The Secondary Objective moves the game to a Tier 5, and completion of all Primar
 | Black Lotus | [Petal Crash](https://cedb.me/game/970f15f0-11d4-42f4-beb5-71b6626fd409) | Yellow |
 | Prismatic Champion | [PogoChamp](https://cedb.me/game/d1b82b89-eb0a-4c9e-abed-c103973a578c) | Yellow |
 | Pogo Legend | [Pogostuck: Rage With Your Friends](https://cedb.me/game/aa2711fd-7d14-45b1-9db9-838c5d855272) | Yellow |
-| Bunny Lover | [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) | Yellow |
 | Flow Artist | [Radial Flow](https://cedb.me/game/d32e7a4b-ffb3-4be2-8548-528bf5a0df01) | Yellow |
 | Endless Nightmare | [RUN: The world in-between](https://cedb.me/game/ec0a8f17-0960-4b02-b0f5-70e345812c1c) | Yellow |
 | Shadow Hunter | [Shadow Corridor 2 雨ノ四葩](https://cedb.me/game/20322d61-5f6d-4725-9469-66df9fd455e5) | Yellow |
@@ -263,6 +261,7 @@ The Secondary Objective moves the game to a Tier 5, and completion of all Primar
 
 | Title / Role | Game | Colour |
 | :----------- | :---- | :---- |
+| Saber Savant | [Beat Saber](https://cedb.me/game/f11fa5a4-7c04-4cca-8c15-0f03abf8ede1) | Black |
 | Cloudberry King | [Cloudberry Kingdom](https://cedb.me/game/95dc81da-a00b-48f0-9d44-a6298fd22d4d) | Black |
 | Dancing Queen | [Crypt of the Necrodancer](https://cedb.me/game/222dbb63-3e42-4bd8-9528-216dd1f82ffb) | Black |
 | The GOAT | [Desktop Dungeons](https://cedb.me/game/3ae88663-19d9-4e13-8622-7986aaee9cbc) | Black |
@@ -274,12 +273,15 @@ The Secondary Objective moves the game to a Tier 5, and completion of all Primar
 | Void Vanquisher | [NOISZ](https://cedb.me/game/39f6d210-1320-49ca-8038-964cc4fe4ad8) | Black |
 | Peak Performer | [Peaks of Yore](https://cedb.me/game/511d2ddd-c6b1-48ec-9ec2-f5597b3f131c) | Black |
 | \#1 Diva | [Hatsune Miku: Project DIVA Mega Mix+](https://cedb.me/game/90675a65-03e1-4bdf-ba97-68f47cd8d30a) | Black |
+| Bunny Lover | [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) \* | Black |
 | Spin Doctor | [Spin Rhythm XD](https://cedb.me/game/1b1be0c6-5088-4f26-8c1a-2b92a989efbe) | Black |
 | Ursa Major | [Super Rude Bear Resurrection](https://cedb.me/game/dff3ca1d-f9b5-4f5e-a486-e455713c8cec) | Black |
 | Tetris Master | [Tetris® Effect: Connected](https://cedb.me/game/d28e20d0-b092-45c6-8c5b-25e448b09215) | Black |
 | Triangulous | [Threes!](https://cedb.me/game/87b1ea5b-1e3e-4d72-a900-60b57f84e8f3) | Black |
 | Pit Viper | [Trials Fusion™](https://cedb.me/game/b94450d9-99a1-4139-abca-8cbb86493535) | Black |
 | Worldkeeper | [vivid/stasis](https://cedb.me/game/493bdf6a-3596-4f16-ac67-de8372682370) | Black |
+
+(\*) Titles / roles contingent on Secondary Objectives being earned.
 
 
 **White roles**, for completing a Tier 7 game:
@@ -306,7 +308,7 @@ The following titles / roles relate to the completion of multiple games under a 
 | The Literate | For each letter of the English alphabet (A-Z), complete at least one game whose name starts with that letter | Green |
 | Quality Chaser | Obtain the site achievements "Word From the Wise", "Follow the Masses", and "Free Advertising" | Green |
 | Steam Roller | Complete all primary objectives in 100 separate games on Steam | Blue |
-| Time Traveller | Complete all primary objectives in 100 separate 'Retro' games | Blue |
+| Time Traveller | Complete all primary objectives in 50 separate 'Retro' games | Blue |
 | Omnipresent | Complete at least one game from each console and platform (see: [Retro Potentials Sheet](https://docs.google.com/spreadsheets/d/1g_7GlGYtz0l4EV_WfWdhslcfYcUZph2-8G4lbHvF214/edit?usp=sharing)) | Black |
 
 
@@ -335,9 +337,9 @@ These titles / ranks relate to interaction with the ```#bounty-hub``` / ```#the-
 
 | Title / Role | Requirement | Colour |
 | :----------- | :---- | :---- |
-| Scout | Obtain 10+ Bounty Points | Blue |
-| Bounty Hunter | Obtain 50+ Bounty Points | Blue |
-| Bounty Hunter | Obtain 100+ Bounty Points | Black |
+| Scout | Obtain 25+ Bounty Points | Blue |
+| Bounty Hunter | Obtain 100+ Bounty Points | Blue |
+| Bounty Hunter | Obtain 250+ Bounty Points | Black |
 | Star of Extinction | Obtain the site achievement "Star of Extinction" | Blue |
 | Six Shooter | Obtain the site achievement "Six Shooter" | Blue |
 
