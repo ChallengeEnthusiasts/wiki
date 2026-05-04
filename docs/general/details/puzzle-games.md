@@ -16,7 +16,7 @@ The difficulty of these games are ranked on a three-tier system, which is voted 
 - Challenging (🟥)
 - Extreme (⬛)
 
-A specialized potentials list for puzzle games can be found [at this Google sheet document](https://docs.google.com/spreadsheets/d/1yZBGDmftR_tbJ1WuoNnF6UKNpVpXaO7gwg1EQlZQlfc/edit?gid=68611425#gid=68611425). Games are added to this list through a voting system within the CE Discord server—if you wish to participate in that, ask any of the Discord mods for the "@Puzzle Enthusiast" role.
+A specialized potentials list for puzzle games can be found [at this Google sheet document](https://docs.google.com/spreadsheets/d/1yZBGDmftR_tbJ1WuoNnF6UKNpVpXaO7gwg1EQlZQlfc/edit?gid=68611425#gid=68611425). Puzzle games can be added through a recommendation thread like any other objective on the site; although to avoid bloating the page with easier games or low quality challenges, we require 2 people to vouch for any puzzle game being suggested. You can check the first tab of the potentials spreadsheet above for more specifics on how we add puzzle games.
 
 To be eligible for these achievements, please add the associated game "Frame of Mind" to your library, and then update your profile. You should show up in the full completions after a while, and can then post your proof.  
 Please remember that the objectives on this page do not count toward CO-related roles.
