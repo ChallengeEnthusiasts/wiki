@@ -62,20 +62,20 @@ Also known as COs.
 COs are objectives that would be recognized on the site if they hypothetically fell within the DIRE framework, and are not otherwise PO or SO. You can imagine this as the community recognizing a challenge rather than the developer. Otherwise, these still follow some of the same rules as other objective types.
 
 Examples:
-✅ Community recognized milestones, such as a sub 30 celeste speedrun, or 1100 in devil daggers.
-✅ Reaching the end, or otherwise maxing out something that is not developer recognized and is not an SO (Kill screen in arcade games, 150/100 purple coins in Mario Galaxy, etc.).
-✅ Stand-out modded content that is expansive enough to be worth a badge (such as Strawberry Jam in Celeste, or the pale court mod in Hollow Knight).
-✅ Self-imposed challenges, such as obtaining all collectibles during a YOLO.
-✅ Mode/Modifier combinations that don't fall under DIRE or are not otherwise PO/SO (Hades 64 Heat).
-✅ Objectives that do fall under DIRE, but are not PO/SO for reasons such as redundancy, or low overall difficulty (such as balatro's completionist achievements- Although these meet the 5 point threshold and are unique challenges, the amount of effort and grind required for such a low amount of points simply isn't worth having these be PO required for completion).
-✅ Beating a static developer time that is not recognized in-game or a well known speedrun time (such as the Splodey event record).
-✅ Obtaining all Retroachievements, as these are typically include content that is not recognized by the original developers.
-✅ Milestones for harder objectives (such as doing all zones seperately as practice for a tougher YOLO objective, where doing the individual zones/checkpoints deathless is not developer recognized)
+- ✅ Community recognized milestones, such as a sub 30 celeste speedrun, or 1100 in devil daggers.
+- ✅ Reaching the end, or otherwise maxing out something that is not developer recognized and is not an SO (Kill screen in arcade games, 150/100 purple coins in Mario Galaxy, etc.).
+- ✅ Stand-out modded content that is expansive enough to be worth a badge (such as Strawberry Jam in Celeste, or the pale court mod in Hollow Knight).
+- ✅ Self-imposed challenges, such as obtaining all collectibles during a YOLO.
+- ✅ Mode/Modifier combinations that don't fall under DIRE or are not otherwise PO/SO (Hades 64 Heat).
+- ✅ Objectives that do fall under DIRE, but are not PO/SO for reasons such as redundancy, or low overall difficulty (such as balatro's completionist achievements- Although these meet the 5 point threshold and are unique challenges, the amount of effort and grind required for such a low amount of points simply isn't worth having these be PO required for completion).
+- ✅ Beating a static developer time that is not recognized in-game or a well known speedrun time (such as the Splodey event record).
+- ✅ Obtaining all Retroachievements, as these are typically include content that is not recognized by the original developers.
+- ✅ Milestones for harder objectives (such as doing all zones seperately as practice for a tougher YOLO objective, where doing the individual zones/checkpoints deathless is not developer recognized)
 
-🚫 PVP or other Dynamic Challenges, as even though these can fall under DIRE, the experience will differ for every player and doesn't provide a consistent challenge. (Subject to consideration)
-🚫 Challenges that do not meet the 5 point threshold for difficulty on the site
-🚫 Excessive grind that doesn't offer anything new (Such as beating a game 50 times where it's the same experience/challenge every time.)
-🚫 Exceedingly arbitrary goals, at the discretion of the CO team
+- 🚫 PVP or other Dynamic Challenges, as even though these can fall under DIRE, the experience will differ for every player and doesn't provide a consistent challenge. (Subject to consideration)
+- 🚫 Challenges that do not meet the 5 point threshold for difficulty on the site
+- 🚫 Excessive grind that doesn't offer anything new (Such as beating a game 50 times where it's the same experience/challenge every time.)
+- 🚫 Exceedingly arbitrary goals, at the discretion of the CO team
 
 Note that there may be exceptions to these rules at the discretion of the CO and game additions teams, and these guidelines do not necessarily cover every possible CO that could be added to the site. Especially in regards to grind, repetition, and whether these objectives reach the 5 point threshold, there may be certain objectives that "toe the line", but are deemed acceptable for a number of reasons at the discretion of the CO team.
 
