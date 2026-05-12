@@ -72,7 +72,7 @@ Examples:
 ✅ Obtaining all Retroachievements, as these are typically include content that is not recognized by the original developers.
 ✅ Milestones for harder objectives (such as doing all zones seperately as practice for a tougher YOLO objective, where doing the individual zones/checkpoints deathless is not developer recognized)
 
-🚫 PVP or other Dynamic Challenges, as even though these can fall under DIRE, the experience will differ for every player and doesn't provide a consistent challenge.
+🚫 PVP or other Dynamic Challenges, as even though these can fall under DIRE, the experience will differ for every player and doesn't provide a consistent challenge. (Subject to consideration)
 🚫 Challenges that do not meet the 5 point threshold for difficulty on the site
 🚫 Excessive grind that doesn't offer anything new (Such as beating a game 50 times where it's the same experience/challenge every time.)
 🚫 Exceedingly arbitrary goals, at the discretion of the CO team
