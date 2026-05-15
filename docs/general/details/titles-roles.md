@@ -351,7 +351,7 @@ These titles / ranks relate to interaction with the ```#bounty-hub``` / ```#the-
 
 | Title / Role | Requirement | Colour |
 | :----------- | :---- | :---- |
-| Scout | Obtain 25+ Bounty Points | Blue |
+| Scout | Obtain 50+ Bounty Points | Blue |
 | Bounty Hunter | Obtain 100+ Bounty Points | Blue |
 | Bounty Lord | Obtain 250+ Bounty Points | Black |
 | Star of Extinction | Obtain the site achievement "Star of Extinction" | Blue |
