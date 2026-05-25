@@ -56,6 +56,11 @@ Examples include:
 - Bonuses obtained through performance that are not directly associated with grades/ranks. (1-ups, extra lives, etc. if they would be hard enough.)
 - Beating pre-loaded high scores / times that are set by the dev and visible in a context where beating them is encouraged.
 
+### Extra caveats
+
+- If a difficulty would be selected or triggered in a way that differs too much from standard difficulties found within the same game, then completing those should by default be considered SO. For example, if you initiate "Normal" and "Hard" difficulty by selecting them at the start of a game, but can only attempt "Cataclysmic" difficulty by entering a hidden menu, a beta branch, a menu for alternative/untested/unintended modes, etc. then doing anything with respect to "Cataclysmic" difficulty in this example would be considered SO. Any challenges normally paired with difficulties that are defined as PO (earning ranks, collectibles, boss rush etc.) for SO based difficulties are themselves also fair game for SO.
+
+
 ## Community Objectives
 Also known as COs.
 
