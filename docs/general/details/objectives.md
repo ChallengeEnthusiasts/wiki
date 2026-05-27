@@ -40,8 +40,9 @@ Anything that can be argued to fall within **DIRE** that is not immediately obvi
 Examples include:
 - Levels behaving differently based on a specific and unique play pattern.
 - Where a modifier is only selectable before a run starts, and cannot be changed or turned off mid-run, and the modifier is intended or presented to the player as a means of making the run more challenging, then beating the game with just that modifier (and no other modifiers).
+  - How the modifier is presented in-game factors into the objective's viability: for instance, if the modifier is presented right before the start of each level/run, instead of being found several layers deep into a settings menu, there is a clearer intent to beat levels with the modifier.
   - Combinations of modifiers are not grounds for inclusion as an SO, absent other indication of developer intent or encouragement.
-- Placement on a leaderboard found in game, 
+- Placement on a leaderboard found in game.
 - Ambiguous rewards based on performance (impermanent minor changes in cutscenes).
 - Challenges found on or presented by a developer through the platform in which the game was published on. Challenges seen in officially published game manuals, or developer made content through the steam workshop for example.
 - Developer curated community made content within a game (varying degrees of curation may be on a case by case basis); challenges within that content are exempt unless also explicitly encouraged by the developers (for example, beating curated maps from Track Central in Trials, but not getting diamond medals on them).
