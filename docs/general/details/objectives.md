@@ -1,22 +1,12 @@
 # Objectives
 
-::: danger PLEASE NOTE
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
-
-This is a TEMPORARY placeholder for objective definitions - for the Admin team's discussion and write up.
-
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
-:::
-
-
-
 Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.
 
 We follow the **DIRE**, which stands for "Developer Intended, Recognized, or Encouraged" as an overarching criteria for a point-valued objective.
 
 [[toc]]
 
-## Primary Objectives
+## Primary Objectives (POs)
 Also known as POs.
 
 Challenges presented by the developer of a game in an unambiguous manner. Typically in forms associated with primary gameplay progression.
@@ -32,8 +22,13 @@ Examples include:
 Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.
 In some rare cases, objectives may be grouped according to modes, but the objectives inside these modes will be sorted as previously described.
 
-## Secondary Objectives
-Also known as SOs. *Currently labeled with *(S)* at the end of the objective's name.*
+## Secondary Objectives (SOs)
+
+::: warning PLEASE NOTE
+Secondary objectives were officially introduced in April 2026. The scope of 'what is an SO' will continue to develop as additional examples are brought to the team.
+
+The list of examples below is not expected to be exhaustive, and the examples may be further expanded upon or restricted as additional edge cases are worked through.
+:::
 
 Anything that can be argued to fall within **DIRE** that is not immediately obvious or may be ambiguous to most players, or unambiguous but highly indirect forms of gameplay progression.
 
@@ -62,21 +57,20 @@ Examples include:
 - If a difficulty would be selected or triggered in a way that differs too much from standard difficulties found within the same game, then completing those should by default be considered SO. For example, if you initiate "Normal" and "Hard" difficulty by selecting them at the start of a game, but can only attempt "Cataclysmic" difficulty by entering a hidden menu, a beta branch, a menu for alternative/untested/unintended modes, etc. then doing anything with respect to "Cataclysmic" difficulty in this example would be considered SO. Any challenges normally paired with difficulties that are defined as PO (earning ranks, collectibles, boss rush etc.) for SO based difficulties are themselves also fair game for SO.
 
 
-## Community Objectives
-Also known as COs.
+## Community Objectives (COs)
 
 COs are objectives that would be recognized on the site if they hypothetically fell within the DIRE framework, and are not otherwise PO or SO. You can imagine this as the community recognizing a challenge rather than the developer. Otherwise, these still follow some of the same rules as other objective types.
 
 Examples:
-- ✅ Community recognized milestones, such as a sub 30 celeste speedrun, or 1100 in devil daggers.
+- ✅ Community recognized milestones, such as a sub-30 minute Celeste speedrun, or 1100 in devil daggers.
 - ✅ Reaching the end, or otherwise maxing out something that is not developer recognized and is not an SO (Kill screen in arcade games, 150/100 purple coins in Mario Galaxy, etc.).
 - ✅ Stand-out modded content that is expansive enough to be worth a badge (such as Strawberry Jam in Celeste, or the pale court mod in Hollow Knight).
 - ✅ Self-imposed challenges, such as obtaining all collectibles during a YOLO.
 - ✅ Mode/Modifier combinations that don't fall under DIRE or are not otherwise PO/SO (Hades 64 Heat).
-- ✅ Objectives that do fall under DIRE, but are not PO/SO for reasons such as redundancy, or low overall difficulty (such as balatro's completionist achievements- Although these meet the 5 point threshold and are unique challenges, the amount of effort and grind required for such a low amount of points simply isn't worth having these be PO required for completion).
+- ✅ Objectives that do fall under DIRE, but are not PO/SO for reasons such as redundancy, or low overall difficulty (such as Balatro's completionist achievements - Although these meet the 5 point threshold and are unique challenges, the amount of effort and grind required for such a low amount of points simply isn't worth having these be PO required for completion).
 - ✅ Beating a static developer time that is not recognized in-game or a well known speedrun time (such as the Splodey event record).
-- ✅ Obtaining all Retroachievements, as these are typically include content that is not recognized by the original developers.
-- ✅ Milestones for harder objectives (such as doing all zones seperately as practice for a tougher YOLO objective, where doing the individual zones/checkpoints deathless is not developer recognized)
+- ✅ Obtaining all RetroAchievements, as these are typically include content that is not recognized by the original developers.
+- ✅ Milestones for harder objectives (such as doing all zones separately as practice for a tougher YOLO objective, where doing the individual zones/checkpoints deathless is not developer recognized)
 
 - 🚫 PVP or other Dynamic Challenges, as even though these can fall under DIRE, the experience will differ for every player and doesn't provide a consistent challenge. (Subject to consideration)
 - 🚫 Challenges that do not meet the 5 point threshold for difficulty on the site
@@ -92,15 +86,15 @@ Whilst objectives falling under the CO designation do not need to adhere to the 
 ## FAQ
 
 ### "What does uncleared mean? What are uncleared objectives?"
-You may find some games with primary or secondary objectives listed as (UNCLEARED) with 1 point. These are objectives that we know exist for a game, but they haven't been cleared yet by anyone within the group and as such have not been valued.
+You may find some games with primary or secondary objectives listed with a value of 0 points.
 
-Objectives listed as (UNVALUED) are those who have been cleared by someone within the group but have not yet received valuation for diverse reasons, such as being a recent completion, being unable to make a solid assessment of points, awaiting discussion/other clears, among others.
-
-The reason they're listed as 1 point is because completions are currently based on whether your amount of points on a game match its total. As such, this band-aid patch prevents fake completions from appearing. This is scheduled to be fixed in a future update.
+These are objectives that we know exist for a game, but they haven't yet:
+- been cleared by anyone <u>within the CE community</u> (even if it may have been cleared by someone outside of CE), and as such have not been valued; or
+- been assigned a value. This could be driven by one of a number of factors, such as being a recent completion, being unable to make a solid assessment of points, or awaiting discussion/other clears.
 
 
 ### "What counts as a completion?"
-**Only completing all Primary Objectives in a game is enough for a completion.** This also requires uncleared or unvalued objectives if they exist.
+**Only completing <u>all Primary Objectives</u> in a game is enough for a completion.** This also requires all 0-point primary objectives (whether uncleared or unvalued) if they exist.
 
 If you complete all Secondary Objectives, you will be awarded their points and an "overcompletion" in the game leaderboard, but it doesn't show up anywhere else other than your game list.
 

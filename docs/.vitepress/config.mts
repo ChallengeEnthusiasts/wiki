@@ -30,7 +30,7 @@ export default defineConfig({
 		  { text: 'The DIRE Framework', link: '/general/details/dire' },
 		  { text: 'Points & Tiers', link: '/general/details/points-tiers' },
 		  { text: 'CE Rating (CR)', link: '/general/details/ce-rating' },
-      { text: 'Objective Types', link: '/general/details/objectives' },
+      { text: 'Objective Types (PO/SO/CO)', link: '/general/details/objectives' },
 		  { text: 'Game Categories', link: '/general/details/categories' },
 		  { text: 'Game Tags', link: '/general/details/tags' }
         ]
