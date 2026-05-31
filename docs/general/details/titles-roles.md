@@ -168,6 +168,18 @@ The following titles / roles are awarded for fully completing a high-valued game
 Unlike titles/roles in previous sections, if a game has additional POs or requirements added, the title/role will not be maintained; the game must be completed (all Primary Objectives earned) to be awarded.
 :::
 
+::: warning Interactions with SOs
+To be eligible for a title/role from a high-valued game, the user <u>must have all POs earned</u>.  
+If a user with all POs earned completes Secondary Objectives that push the points earned in the game over a new title/role colour threshold (150, 200, 400 etc), the user will be eligible for the role with the 'higher colour'.
+
+A user <u>does not need to have earned all SOs</u> to be eligible for a higher title/role colour.
+
+For example, at the time of writing, [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) has POs worth 100 points, and secondary objectives worth over 300 points. Depending on the SOs earned, the 'Bunny Lover' role could be earned as an Orange, Yellow or Black title.
+
+These SO-dependant titles/roles will only be available on the site once implemented, rather than as a Discord role (due to role space limitations in the server).
+:::
+
+
 Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs.
 
 
@@ -207,9 +219,6 @@ Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs
 | Hawkeye | [TowerFall Ascension](https://cedb.me/game/6d210be2-50de-49f4-a533-8eb5fa0c6bbc) | Orange |
 | Bloodline Avenger | [vridniX](https://cedb.me/game/3ba0d760-9c23-4519-b0dd-75faf48c6527) | Orange |
 | General Wee | [Wee Tanks!](https://cedb.me/game/67572fba-5a2b-45fe-ad40-2a8ff2dd7f26) | Orange |
-
-(\*) If all Primary Objectives are earned, but not the Secondary Objective, Hollow Knight will award an Orange title / role.  
-The Secondary Objective moves the game to a Tier 5, and completion of all Primary and Secondary Objectives will award a Yellow version of the title / role.
 
 
 **Yellow roles**, for completing a Tier 5 game:
@@ -268,8 +277,6 @@ The Secondary Objective moves the game to a Tier 5, and completion of all Primar
 | Super Soldier | [Trepang2](https://cedb.me/game/f61954cd-1d07-4af4-b8cc-3db6a22f3b09) | Yellow |
 | The Phoenix | [Trials Evolution](https://cedb.me/game/c65c5160-1eeb-4ffe-bf59-891e4eb68579) | Yellow |
 
-(\*) Titles / roles contingent on Secondary Objectives being earned.
-
 
 **Black roles**, for completing a Tier 6 game:
 
@@ -294,8 +301,6 @@ The Secondary Objective moves the game to a Tier 5, and completion of all Primar
 | Triangulous | [Threes!](https://cedb.me/game/87b1ea5b-1e3e-4d72-a900-60b57f84e8f3) | Black |
 | Pit Viper | [Trials Fusion™](https://cedb.me/game/b94450d9-99a1-4139-abca-8cbb86493535) | Black |
 | The First Observer | [vivid/stasis](https://cedb.me/game/493bdf6a-3596-4f16-ac67-de8372682370) | Black |
-
-(\*) Titles / roles contingent on Secondary Objectives being earned.
 
 
 **White roles**, for completing a Tier 7 game:
