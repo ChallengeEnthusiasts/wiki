@@ -26,7 +26,7 @@ You may want to...
 - Suggest that a game could be challenging enough for the site (a [potential](#potentials)).
 - Suggest a game to be added (a [game addition](#game-additions)).
 - Suggest some aspects of the game or an objective to be added, changed, buffed or nerfed (an [adjustment](#adjustments)).
-- - If these changes are purely aesthetical (icons, typos, wording, etc), move it to ```#aesthetic-feedback```, which is directly below the recommendations forum It also has more relaxed rules.
+  - If these changes are purely aesthetic (icons, typos, wording, etc), move it to ```#aesthetic-feedback```, which is directly below the recommendations forum It also has more relaxed rules.
 - Suggest a removal of a game from the site (a [removal](#removals)).
 
 
@@ -69,11 +69,11 @@ Games on Early Access are subject to some scrutiny. It'd be better if **their co
 Games that have online-only content are allowed too, but your points are not guaranteed to stay if they're taken down.
 
 ### Extras
- If you are recommending a low Tier 1 game (5 points total), consider trying one of the free games from the respective category as a point of comparison. These games are free and generally at the lower end of the point of entry for a game on the list. Make sure you are confident the game you are suggesting is harder than the ones listed below.
+If you are recommending a low Tier 1 game (5 points total), consider trying one of the free games from the respective category as a point of comparison. These games are free and generally at the lower end of the point of entry for a game on the list. Make sure you are confident the game you are suggesting is harder than the ones listed below.
 
-Flem (platformer) | Laserboy (action) | Neon Boost (First Person) | Prologue for a Vacant Kingdom (Bullet Hell) | Project Rhombus (Arcade) | Peggle Extreme (Strategy)
+[Flem](https://cedb.me/game/1b6399d1-b078-4d4f-8e09-7257f43d165d) (Platformer) | [Dispersio 2](https://cedb.me/game/e835c13e-f294-4573-bfe3-d6c3cf904c2f) (Action) | [Neon Boost](https://cedb.me/game/db21aec8-327f-45ba-bc59-579775c34092) (First Person) | [Prologue for a Vacant Kingdom](https://cedb.me/game/8a77237e-2293-4838-a297-5357e131fdde) (Bullet Hell) | [Project Rhombus](https://cedb.me/game/4095099a-70e2-4319-9822-0c76939f5bcd) (Arcade) | [Peggle Extreme](https://cedb.me/game/5381856b-3256-4ff6-914b-6cfd1b6e3813) (Strategy)
 
-Some other well known titles that are low tier entry point comparisons would be: Heads Run, Hotline Miami, Clustertruck, Marimoth, oO, Boson X.
+Some other well known titles that are low tier entry point comparisons would be: [Heads Run](https://cedb.me/game/34c593d6-e8bd-4bd3-9fa0-73ea2258922f), [Hotline Miami](https://cedb.me/game/31bfc2a7-3ed7-467a-a46e-15464c3ab44c), [Clustertruck](https://cedb.me/game/d301043e-b889-48b0-8658-c68087561b49), [Marimoth](https://cedb.me/game/090ee8e9-fdc9-45d3-aa7c-307a406936c9), [oO](https://cedb.me/game/c0d6be9e-5ba0-4cd8-b35c-ab9bbdd6baa9), [Boson X](https://cedb.me/game/9279b845-d843-4325-a1f5-c2570778c7f9).
 
 ## Adjustments
 
@@ -81,15 +81,11 @@ An "adjustment" is a broad term which includes any kind of non-aesthetic changes
 
 There are several reasons you would want to make an adjustment to a game. Some of the most common examples:
 - A game has added challenging content in an update/DLC and you don't see it being included here;
-- You think some achievements are unnecesary to have, or have been nerfed too much to be worth a challenge;
+- You think some achievements are unnecessary to have, or have been nerfed too much to be worth a challenge;
 - An objective could have a different type of proof required due to any circumstances;
 - You have a proposal regarding point values, etcetera.
 
 The general rules still apply: talking about point values in any non-speculative manner would require you to clear a relevant objective for the game.
-
-## Objective rules
-
-Tier and Objective guidelines can be found in previous sections of this guide.
 
 ## Removals
 
@@ -109,7 +105,7 @@ You must have played through the game enough for your removal to be valid for an
 
 If a user feels strongly that a game listed on the site does not meet the difficulty threshold to be included on the site, the process to instigate a review is as follows.
 
-Open a thread in ⁠```#recommendations``` titled ```Removal: [GAME NAME]```, and link the CE game page in the initial post along with tagging the ```@Rep``` role. (TBD)
+Open a thread in ⁠```#recommendations``` titled ```Removal: [GAME NAME]```, and link the CE game page in the initial post.
 
 Include pertinent details as to why the game did not feel sufficiently difficult. In all cases, please provide an indication of play time, and then further commentary. For example:
 - "The PO(s) took me 10h - the time spent was high, but there was effectively no difficulty"
