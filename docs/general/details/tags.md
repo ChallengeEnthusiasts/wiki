@@ -1,21 +1,13 @@
 # Game Tags
 
-::: warning NOTE
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
-
-The page has been written months ago based on expected functionality, and has yet to confirm whether it's aligned with the current implementation.
-
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
-:::
-
-For each game on the CE website, a minimum of one tag will be found on the game page.
+For each game on the CE website, a minimum of one tag should be found on the game page.
 
 ## Interacting with tags
 
 On the main games page, it is expected that the user will be able to apply filters to games, similar to how games can be filtered by [Tier](/general/details/points-tiers#tiers) or [Category](/general/details/categories).
 
 This may be used to help identify:
-- a particular subset of games in a given category (eg: Foddian games within the Platformer catgory)
+- a particular subset of games in a given category (eg: Foddian games within the Platformer category)
 - games that contribute to certain [Site Achievements](/general/details/site-achievements) (identified through Information tags)
 - games that are no longer able to be purchased through Steam
 - various other categorisations!
@@ -64,7 +56,7 @@ The current list of supported genres, and a brief description, are detailed belo
 | Puzzle | Games where puzzle mechanics are employed as the core gameplay mechanic, without time-pressure. |
 | Puzzle Platformer | Puzzle-Platfomers often have the player attempt to overcome obstacles and get to the exit in a series of rooms, often by use of a unique gameplay mechanic. |
 | (Arcade/Action) Puzzler | Games where puzzle mechanics are employed as the core gameplay mechanic, but often with a layer of time-pressure associated with it. |
-| Racing | Go fast, zoom zoom! |
+| Racing | Games where the user controls a vehicle (such as a car, motorcycle, boat, or aircraft) to compete against opponents, or the clock. |
 | Real-Time Strategy | (RTS) games are a subgenre of Strategy games which do not progress incrementally in turns, but allow all players (whether human-controlled or otherwise) to play simultaneously, in "real time". |
 | Reflex/Reaction | Games with gameplay heavily characterised by a player responding quickly to randomly generated obstacles. |
 | Resource Management | Games with gameplay that heavily relies on the strategic allocation, collection, and utilization of various in-game assets, which can include time, currency, energy, or raw materials. |
@@ -89,11 +81,33 @@ The current list of supported genres, and a brief description, are detailed belo
 
 ## Information tags
 
+### Implemented tags
+
 | Category | Info Tag | Description |
 | :-- | :-- | :-- |
-| Game Info | Co-op | Completion requires or strongly implies the assistance of another player |
-| Game Info | English Unsupported | Tag would apply even if mods enable English support |
+| Game Info | Free | The game is free to play. |
+| Game Info | Not English Supported | The game does not natively support the English language. The tag would apply even if mods enable English support |
+| Game Info | Requires Co-op | Completion requires or strongly implies the assistance of another player |
 | Game Info | VR Required | The game, or an objective from the game, *requires* VR to obtain |
+| Retro | Retro: {Console name} | The specific console the game was released on |
+| Retro | Retro: Console Group | The console grouping (Nintendo/Sony/etc) per CE's classifications |
+| Site Achievement | Animal Protagonist | The main character is a non-human animal |
+| Site Achievement | Female Protagonist | The main character is a human female |
+| Site Achievement | Loop Featured | The game is used on the CE homepage, in one of the loops |
+| Site Achievement | Mouse Focused | The game's primary means of control is with a mouse |
+| Site Info | Casino Excluded | The game is not rollable in the Casino; this may be due to in-game exploits/cheese, quality reasons, or otherwise. |
+| Site Info | Curated | The game is curated on the [CE Steam Curator](https://store.steampowered.com/curator/36185934-Challenge-Enthusiasts/) |
+| Site Info | Has Community Objectives | The game has [Community Objectives](/general/details/objectives#community-objectives) |
+| Site Info | Has Secondary Objectives | The game has [Secondary Objectives](/general/details/objectives#secondary-objectives) |
+| Site Info | Uncleared | The game has an objective that has not been cleared by anyone on CE, or that has not had a value determined. |
+| Steam Info | Delisted | The game is not available for purchase on Steam. |
+| Steam Info | Overwhelmingly Positive | The game has an Overwhelmingly Positive rating on Steam (95%+ positive reviews, with at least 500 reviews). |
+
+
+### Previously-proposed tags
+
+| Category | Info Tag | Description |
+| :-- | :-- | :-- |
 | Objective Type | Objective: 1 Credit Clear | An objective on the game page requires a 1CC |
 | Objective Type | Objective: Boss Rush | An objective on the game page requires completing a boss rush |
 | Objective Type | Objective: Individual Levels | An objective on the game page relates to targets by individual level (deaths/time/score) |
@@ -101,20 +115,8 @@ The current list of supported genres, and a brief description, are detailed belo
 | Platform | Platform: Other | The game listing relates to a non-Steam, non-Retro game |
 | Platform | Platform: RetroAchievements | The game listing relates to a Retro game |
 | Platform | Platform: Steam | The game listing relates to a Steam game |
-| Retro | Retro: {Console name} | The specific console the game was released on |
-| Retro | Retro: Console Group | The console grouping (Nintendo/Sony/etc) per CE's classifications |
-| Site Achievement | Animal Protagonist | The main character is a non-human animal |
-| Site Achievement | Female Protagonist | The main character is a human female |
 | Site Achievement | Flash Game | The game was originally a flash game, or derived from one |
 | Site Achievement | 'Super' | The game contains the word 'Super' |
-| Site Achievement | Video Loop {X} | The game is used on the CE homepage, in Loop {X} |
-| Site Info | CE: Baseline Game | The game is considered a 'baseline' 5 point game. No game in the relevant category may be easier than this game. |
-| Site Info | CE: CErtified | [TBD] The value of the game is locked; sufficient discussion and clears support the value, and it will not change. |
-| Site Info | CE: Curated | The game is curated on the [CE Steam Curator](https://store.steampowered.com/curator/36185934-Challenge-Enthusiasts/) |
-| Site Info | CE: Duplicate | A game with multiple versions/listings on the CE site (Eg: Crimzon Clover, or life is not auto) |
-| Site Info | CE: Has CO(s) | The game has [Community Objectives](/general/details/objectives#community-objectives) |
-| Site Info | CE: Has SO(s) | The game has [Secondary Objectives](/general/details/objectives#secondary-objectives) |
-| Site Info | CE: Has Uncleared/Unvalued(s) | The game has an objective that has not been cleared by anyone on CE, or that has not had a value determined. |
-| Site Info | CE: Unrollable | The game is not rollable in the Casino; this may be due to in-game exploits/cheese, quality reasons, or otherwise. |
-| Steam Info | Steam: Delisted/Unavailable | The game is not available for purchase on Steam. |
-| Steam Info | Steam: Free | The game is on Steam, and is free to play. |
+| Site Info | Baseline Game | The game is considered a 'baseline' 5 point game. No game in the relevant category may be easier than this game. |
+| Site Info | CErtified | [TBD] The value of the game is locked; sufficient discussion and clears support the value, and it will not change. |
+| Site Info | Duplicate | A game with multiple versions/listings on the CE site (Eg: Crimzon Clover, or life is not auto) |
