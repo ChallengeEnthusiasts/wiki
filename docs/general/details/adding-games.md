@@ -62,7 +62,7 @@ Regardless of difficulty, we don't allow these games:
 - Direct duplicates (unless replacing delisted games);
 - Games existing outside of the paradigm of what's accepted by the categories (puzzles, PvP games, idlers, etc.);
 - Games where the challenge can be hidden between thousands of hours of casual gameplay.
-- Games that don't meet our quality guidelines.
+- Games that don't meet our [quality guidelines](#quality-guidelines).
 
 Games on Early Access are subject to some scrutiny. It'd be better if **their core gameplay loop is finished or abandoned**, otherwise they may be left on hold.
 
@@ -83,7 +83,7 @@ There are several reasons you would want to make an adjustment to a game. Some o
 - A game has added challenging content in an update/DLC and you don't see it being included here;
 - You think some achievements are unnecessary to have, or have been nerfed too much to be worth a challenge;
 - An objective could have a different type of proof required due to any circumstances;
-- You have a proposal regarding point values, etcetera.
+- You have a proposal regarding point values, et cetera.
 
 The general rules still apply: talking about point values in any non-speculative manner would require you to clear a relevant objective for the game.
 
@@ -122,7 +122,7 @@ The number of clearers to ping will be at the discretion of the Rep handling the
 The next step will require a level of judgement, but may take one of several forms:
 - Game removal/maintenance if there broad consensus on that outcome
 - Seeking further input from clearers not pinged initially, if there a sufficient user base
-- *(Hypotethical):* Application of the "Site Eligibility Under Dispute" information tag to the game should there be limited available input, or conflicting viewpoints
+- *(Hypothetical):* Application of the "Site Eligibility Under Dispute" information tag to the game should there be limited available input, or conflicting viewpoints
   - The thread will remain open, and further input from new clearers will be required.
   - The number of new clearers' input should be informed by the user base (eg: a game with 3 clearers may only need 1 additional user's input, whilst a game with 50 might require 3)
 
@@ -145,11 +145,18 @@ In general, there are three similar, but slightly distinct concepts:
 
 ### Low Effort
 - The game is an obvious asset flip with barely any development put into it. The assets may be stock, the physics are poorly made or clunky, and the developer or series is well known for consistently pushing out similar quality games.,
-- The game is identical to an already existing more popular game without adding in any kind of novelty. Getting Over It spawned a lot of clones, but in many cases, there are enough differences that they can be considered to have added enough novelty to be worthwhile. This will obviously be subject to context.,
-- The game has little to no redeemable gameplay qualities. While this one is highly subjective, there are likely to be cases every so often where the game is just extremely bad all around despite being novel and coded properly. Let this point be reserved for admins and unanimous rep decision. A game simply not being fun is not nearly a justifiable enough reason for removing from the site.,
+- The game is identical to an already existing more popular game without adding in any kind of novelty. Getting Over It spawned a lot of clones, but in many cases, there are enough differences that they can be considered to have added enough novelty to be worthwhile. This will obviously be subject to context.
+- The game has little to no redeemable gameplay qualities. While this one is highly subjective, there are likely to be cases every so often where the game is just extremely bad all around despite being novel and coded properly. Let this point be reserved for admins and unanimous rep decision. A game simply not being fun is not nearly a justifiable enough reason for removing from the site.
+
+### Unauthorised use of content
+- If a given game contains content that has been used without permission, and can unequivocally be argued as infringing upon another party's copyrighted works or intellectual property, then it is not eligible for addition on CE; we do not wish to be seen as promoting products of that nature.  
+  Examples include, but are not limited to:
+  - A game that prominently uses sprites ripped from a commercial release retro title.
+  - A game that utilises background music or songs that are copyrighted, and have not been permitted for use.
+- This guideline exists as a means of excluding blatant misuse of others' content/assets - the CE staff don't want to need to delve into drama about, for example, whether a given paid 3D model used in a game was purchased by the developer; that is not the intent.
 
 ### What to do
-While the above are guidelines, the decision to remove or block a game OR objective from the site will still come down to a consensus among the reps for the category in which the game belongs. Judgment will still be necessary on a case by case basis. A game may also suffer from one or more of the above issues, and still be allowed on the site, again being a decision made by the reps or admins.
+While the above are guidelines, the decision to remove or block a game OR objective from the site will still come down to a consensus among the reps for the category in which the game belongs. Judgement will still be necessary on a case by case basis. A game may also suffer from one or more of the above issues, and still be allowed on the site, again being a decision made by the reps or admins.
 
 To initiate the process of removal:
 - Make a thread pointing out the issues, and list which of the above categories it would fall under;
