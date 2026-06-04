@@ -84,7 +84,10 @@ export default defineConfig({
         icon: "steam",
         link: "https://store.steampowered.com/curator/36185934/"
       }
-    ]
+    ],
+    search: {
+      provider: 'local'
+    }
   },
   lastUpdated: true,
   appearance: 'force-dark',
