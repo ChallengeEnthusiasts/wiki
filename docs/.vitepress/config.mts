@@ -40,7 +40,8 @@ export default defineConfig({
         items: [
 		  { text: 'Game Additions', link: '/general/details/adding-games' },
 		  { text: 'Valuing Games (an analogy)', link: '/general/details/ce_mountain' },
-          { text: 'Other Considerations', link: '/general/details/other-considerations' }
+          { text: 'Other Considerations', link: '/general/details/other-considerations' },
+		  { text: 'Hacks, Mods, Fan Games', link: '/general/details/hacks-mods-fangames' }
         ]
       },
 	    {
