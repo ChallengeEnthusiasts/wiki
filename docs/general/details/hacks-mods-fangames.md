@@ -29,7 +29,7 @@ Notably, <u>the term "Fan-game" (CE context) differs to "fangames" ('I Wanna' co
 ### Hacks / Mods
 Games whose existence relies on the work of others is ultimately not eligible for (standalone) inclusion on CE.
 
-Where that reliance is in the form of a Mod, the content may be eligible to be included in a Community Objective for the relevant underlying game.
+The content may be eligible to be included in a Community Objective for the relevant underlying game, however.
 
 ### User-generated content
 Content created using tools provided by the developer, and playable within the confines of the game in which it was created, is not eligible to be included as a standalone entry on CE.
