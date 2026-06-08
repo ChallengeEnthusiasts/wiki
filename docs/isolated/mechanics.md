@@ -1,5 +1,5 @@
 ---
-title: Site Mechanics Overview | CE Wiki
+title: Site Mechanics Overview 
 description: General summary of several terms used on the site. (Abandoned page)
 ---
 # Site Mechanics Overview

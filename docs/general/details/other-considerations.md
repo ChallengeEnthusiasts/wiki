@@ -1,5 +1,5 @@
 ---
-title: Other Considerations | CE Wiki
+title: Other Considerations 
 description: Miscellanous components that can't be defined in a binary manner.
 ---
 

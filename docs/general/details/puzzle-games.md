@@ -1,5 +1,5 @@
 ---
-title: Puzzle Games | CE Wiki
+title: Puzzle Games 
 description: Encouraging games that fit in our ambition but can't be given points.
 ---
 

@@ -7,7 +7,7 @@ next:
     text: An introduction to our server bots
     link: /general/ce-bots
 
-title: Staff | CE Wiki
+title: Staff 
 description: List of past and present staff members of CE. (Currently not up to date)
 ---
 # Staff

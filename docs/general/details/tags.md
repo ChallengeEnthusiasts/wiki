@@ -1,5 +1,5 @@
 ---
-title: Tags | CE Wiki
+title: Tags 
 description: Loosely considered "sub-categories" that attempt to inform more about each game at a glance.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Effort scalars (PPH) | CE Wiki
+title: Effort scalars (PPH) 
 description: (WIP) Rough categorization of types of challenges and their allowed points depending on time spent.
 ---
 # Effort scalars (points per hour, or PPH)

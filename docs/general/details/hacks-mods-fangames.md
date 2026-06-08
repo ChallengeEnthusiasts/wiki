@@ -1,5 +1,5 @@
 ---
-title: Custom playable content | CE Wiki
+title: Custom playable content 
 description: Defining the core types of custom playable content, and delineating how the CE system interacts with each type, given its near-infinite quantity.
 ---
 

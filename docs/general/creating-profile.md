@@ -1,5 +1,5 @@
 ---
-title: Creating a profile on the site | CE Wiki
+title: Creating a profile on the site 
 description: Steps to register and start chasing challenges.
 ---
 

@@ -7,7 +7,7 @@ next:
     text: Contacting Mods/Admins
     link: /general/ticketing
 
-title: An introduction to our server bots | CE Wiki
+title: An introduction to our server bots 
 description: Built and maintained by our community, these bots are sure to enhance your experience. A brief introduction and their functionality is detailed.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Bounty Hub | CE Wiki
+title: Bounty Hub 
 description: The Bounty Hub is a central place for users to interact with bounties placed on CE-related feats.
 ---
 

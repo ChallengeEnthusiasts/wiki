@@ -1,5 +1,5 @@
 ---
-title: Site Titles and Roles | CE Wiki
+title: Site Titles and Roles 
 description: Explanation of all roles currently present on the server.
 ---
 

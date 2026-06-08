@@ -1,5 +1,5 @@
 ---
-title: Objectives | CE Wiki
+title: Objectives 
 description: (deprecated outside of game keys)
 ---
 

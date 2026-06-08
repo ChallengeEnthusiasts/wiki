@@ -1,5 +1,5 @@
 ---
-title: Site Achievements | CE Wiki
+title: Site Achievements 
 description: CE-designed objectives which attempt to encourage and reward users' interactions and mastery of various components of the CE system.
 ---
 

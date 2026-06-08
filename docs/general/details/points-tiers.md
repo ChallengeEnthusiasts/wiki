@@ -1,5 +1,5 @@
 ---
-title: Points and Tiers | CE Wiki
+title: Points and Tiers 
 description: Definition of the main metric used on the site, and a direct classification of games derived from it.
 icon: /icons/ce_points.png
 ---

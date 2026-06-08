@@ -1,5 +1,5 @@
 ---
-title: Casino | CE Wiki
+title: Casino 
 description: A community event and feature that allows the participation on one of several pre-defined "Casino Rolls".
 ---
 # Casino

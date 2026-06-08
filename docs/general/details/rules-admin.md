@@ -1,5 +1,5 @@
 ---
-title: Rules and Administration | CE Wiki
+title: Rules and Administration 
 description: Full list of rules for the CE website and Discord server, as well as their principles and consequences of breaking them.
 ---
 

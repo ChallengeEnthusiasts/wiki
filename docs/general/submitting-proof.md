@@ -1,5 +1,5 @@
 ---
-title: How do I submit proof? | CE Wiki
+title: How do I submit proof? 
 description: General steps and light troubleshooting.
 ---
 

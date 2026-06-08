@@ -7,7 +7,7 @@ next:
     text: Helpful Links
     link: /general/details/links
 
-title: Contacting CE staff - The Ticket system | CE Wiki
+title: Contacting CE staff - The Ticket system 
 description: The CE Discord utilises a Ticket Tool for private communication with the staff. Learn what it is and how to use.
 ---
 

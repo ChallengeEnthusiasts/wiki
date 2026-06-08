@@ -1,5 +1,5 @@
 ---
-title: Game Additions | CE Wiki
+title: Game Additions 
 description: Describes our main system to add games to the site ⎯ a Discord forum channel.
 ---
 

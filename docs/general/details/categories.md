@@ -1,5 +1,5 @@
 ---
-title: Game Categories | CE Wiki
+title: Game Categories 
 description: Describes how we categorize all games, and the definition of each category.
 ---
 
