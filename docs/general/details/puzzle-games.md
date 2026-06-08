@@ -1,3 +1,8 @@
+---
+title: Puzzle Games | CE Wiki
+description: Encouraging games that fit in our ambition but can't be given points.
+---
+
 # Puzzle Games
 
 Puzzle games by their very nature of being static and wholly guideable are not suited for being on the site; every user's ability to open a guide and successfully complete the game does not represent a 'challenge', and therefore cannot be recognised with [points](/general/details/points-tiers).

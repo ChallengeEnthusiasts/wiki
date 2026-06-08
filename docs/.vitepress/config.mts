@@ -99,7 +99,10 @@ export default defineConfig({
 
     if (pageData.frontmatter.title) head.push(['meta', { property: 'og:title', content: pageData.frontmatter.title }])
     if (pageData.frontmatter.description) head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }])
-    head.push(['meta', { property: 'og:image', content: '/logo.png' }])
+    if (pageData.frontmatter.icon) {
+      head.push(['meta', { property: 'og:image', content: pageData.frontmatter.icon }])
+    }
+    else head.push(['meta', { property: 'og:image', content: '/logo.png' }])
     head.push(['link', { rel: 'icon', href: '/favicon.ico' }])
     
     

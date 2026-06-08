@@ -1,5 +1,8 @@
 ---
 outline: deep
+
+title: The basics | CE Wiki
+description: Basic information regarding the site's features.
 ---
 
 # The basics

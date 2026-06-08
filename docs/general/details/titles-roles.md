@@ -1,3 +1,8 @@
+---
+title: Site Titles and Roles | CE Wiki
+description: Explanation of all roles currently present on the server.
+---
+
 # Site Titles and Roles
 
 Users registered on the site are eligible to earn titles that will appear on your profile.

@@ -1,3 +1,9 @@
+---
+title: Points and Tiers | CE Wiki
+description: Definition of the main metric used on the site, and a direct classification of games derived from it.
+icon: /icons/ce_points.png
+---
+
 # Points and Tiers
 
 Points are the main metric used on the site. They are represented by a gray star. ![Gray star](/icons/ce_points.png){width=32px height=32px} 

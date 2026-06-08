@@ -1,3 +1,8 @@
+---
+title: Objectives | CE Wiki
+description: (deprecated outside of game keys)
+---
+
 # Objectives
 
 Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.

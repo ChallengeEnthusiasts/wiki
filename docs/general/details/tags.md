@@ -1,3 +1,8 @@
+---
+title: Tags | CE Wiki
+description: Loosely considered "sub-categories" that attempt to inform more about each game at a glance.
+---
+
 # Game Tags
 
 For each game on the CE website, a minimum of one tag should be found on the game page.

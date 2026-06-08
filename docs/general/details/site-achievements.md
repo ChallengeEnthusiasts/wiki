@@ -1,3 +1,8 @@
+---
+title: Site Achievements | CE Wiki
+description: CE-designed objectives which attempt to encourage and reward users' interactions and mastery of various components of the CE system.
+---
+
 # Site Achievements
 
 'Site Achievements' or 'CE Achievements' (usually the former) are CE-designed objectives which attempt to encourage and reward users' interactions and mastery of various components of the CE system.

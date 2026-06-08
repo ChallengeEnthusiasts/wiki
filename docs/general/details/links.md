@@ -2,6 +2,9 @@
 prev:
     text: Contacting Mods/Admins
     link: /general/ticketing
+
+title: Helpful links | CE Wiki
+description: (deprecated outside of game keys)
 ---
 
 # Helpful links

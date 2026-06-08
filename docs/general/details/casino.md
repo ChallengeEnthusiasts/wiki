@@ -1,3 +1,7 @@
+---
+title: Casino | CE Wiki
+description: A community event and feature that allows the participation on one of several pre-defined "Casino Rolls".
+---
 # Casino
 
 One of the features of the site, accessible only through Discord, is the ability to participate in one of several pre-defined "Casino Rolls".

@@ -1,3 +1,8 @@
+---
+title: CE Rating (CR) | CE Wiki
+description: A leaderboard-specific weighted point system giving greater weight to the 'difficulty' of points earned by game, versus the quantity of games with points earned.
+---
+
 # CE Rating (CR)
 
 This is a leaderboard-specific weighted point system which gives greater weight to the 'difficulty' of points earned by game, versus the quantity of games with points earned.

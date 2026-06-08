@@ -1,3 +1,8 @@
+---
+title: How do I submit proof? | CE Wiki
+description: General steps and light troubleshooting.
+---
+
 # How do I submit proof?
 
 The most commonly asked question!

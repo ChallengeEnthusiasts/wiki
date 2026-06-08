@@ -1,3 +1,7 @@
+---
+title: The DIRE Framework | CE Wiki
+description: The foundational definition that informs the basis of the Challenge Enthusiasts site and the objective types we use.
+---
 # The DIRE Framework
 
 The foundational definition that informs the basis of the Challenge Enthusiasts site.

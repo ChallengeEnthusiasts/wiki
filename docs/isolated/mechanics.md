@@ -1,3 +1,7 @@
+---
+title: Site Mechanics Overview | CE Wiki
+description: General summary of several terms used on the site. (Abandoned page)
+---
 # Site Mechanics Overview
 
 This page brings a general summary of several terms used in the site. For more details check the "Details" group.

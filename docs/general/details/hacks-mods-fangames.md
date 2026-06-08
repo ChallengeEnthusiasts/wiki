@@ -1,3 +1,8 @@
+---
+title: Custom playable content | CE Wiki
+description: Defining the core types of custom playable content, and delineating how the CE system interacts with each type, given its near-infinite quantity.
+---
+
 # Custom playable content
 
 There are a near-infinite quantity of playable custom gaming content available.

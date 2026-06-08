@@ -1,3 +1,8 @@
+---
+title: Valuing Games (an analogy) | CE Wiki
+description: "Consider the structure for valuing a game like climbing a mountain..."
+---
+
 # Valuing Games (an analogy)
 
 *Consider the structure for valuing a game like climbing a mountain...*

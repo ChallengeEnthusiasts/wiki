@@ -1,3 +1,8 @@
+---
+title: Other Considerations | CE Wiki
+description: Miscellanous components that can't be defined in a binary manner.
+---
+
 # Other Considerations
 -----------------------------
 As you would expect with a system that is based upon many different processes and structures, there are sometimes components that aren't purely black or white.

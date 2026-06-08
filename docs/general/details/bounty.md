@@ -1,3 +1,8 @@
+---
+title: Bounty Hub | CE Wiki
+description: The Bounty Hub is a central place for users to interact with bounties placed on CE-related feats.
+---
+
 # Bounty Hub
 
 The Bounty Hub (```#bounty-hub``` on the CE Discord) is a central place for users to interact with bounties placed on CE-related feats.
