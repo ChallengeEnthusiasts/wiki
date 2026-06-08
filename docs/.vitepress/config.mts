@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, HeadConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -93,5 +93,16 @@ export default defineConfig({
   lastUpdated: true,
   appearance: 'force-dark',
   base: '/',
-  head: [['link', { rel: 'icon', href: '/CE_documentation/favicon.ico' }]]
+
+  transformHead: ({ pageData }) => {
+    const head: HeadConfig[] = []
+
+    head.push(['meta', { property: 'og:title', content: pageData.frontmatter.title }])
+    head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }])
+    head.push(['meta', { property: 'og:image', content: 'logo.png' }])
+    head.push(['link', { rel: 'icon', href: 'favicon.ico' }])
+    
+    
+    return head
+  }
 });

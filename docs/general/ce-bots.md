@@ -6,6 +6,8 @@ prev:
 next:
     text: Contacting Mods/Admins
     link: /general/ticketing
+
+description: Built and maintained by our community, these bots are sure to enhance your experience. A brief introduction and their functionality is detailed.
 ---
 
 # An introduction to our server bots
