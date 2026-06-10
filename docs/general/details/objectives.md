@@ -1,6 +1,6 @@
 ---
 title: Objectives 
-description: (deprecated outside of game keys)
+description: Definition of objectives and all their possible types and reasoning for them.
 ---
 
 # Objectives
