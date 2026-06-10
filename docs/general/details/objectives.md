@@ -22,7 +22,7 @@ Examples include:
 - Assigned unambiguous thresholds of competency (grades, medals, ranks, badges). May be paired with difficulties and modes. For example, two modes, - Campaign and Boss Rush, both have Normal and Hard difficulties, the player is awarded a grade based on performance from D-A, A ranks would be PO in both modes on Hard. These do not need to be permanent.
 - Readily accessed physical content that is not deeply hidden or obscure. Bonus levels.
 - Tracked collectables (the collectables must be permanent, a mode that terminates itself under criteria other than intentional manual deletion are exempt).
-- Completing a 1cc (1 credit clear) if doing so is displayed somewhere permanantly as having been completed. In some cases it may be ambiguous enough to be SO, even with permanant recognition.
+- Completing a 1cc (1 credit clear) if doing so is displayed somewhere permanently as having been completed. In some cases it may be ambiguous enough to be SO, even with permanent recognition.
 
 ### Difficulty order
 Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.
