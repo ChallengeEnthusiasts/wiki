@@ -56,7 +56,7 @@ Examples include:
 - Weapon/item unlocks that are not explicitly tracked collectables.
 - Bonuses obtained through performance that are not directly associated with grades/ranks. (1-ups, extra lives, etc. if they would be hard enough.)
 - Beating pre-loaded high scores / times that are set by the dev and visible in a context where beating them is encouraged.
-- Completing a 1cc if failing would result in some permanant penalty, such as score being reset or locking you out of an alternate route, OR there is some on-screen indication that the game is over or that you have failed somehow, OR the 1cc is displayed temporarily upon completion.
+- Completing a 1cc if failing would result in some permanent penalty, such as score being reset or locking you out of an alternate route, OR there is some on-screen indication that the game is over or that you have failed somehow, OR the 1cc is displayed temporarily upon completion.
 
 ## Community Objectives
 Also known as COs.
