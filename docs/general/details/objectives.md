@@ -7,13 +7,11 @@ description: Definition of objectives and all their possible types and reasoning
 
 Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.
 
-We follow the **DIRE**, which stands for "Developer Intended, Recognized, or Encouraged" as an overarching criteria for a point-valued objective.
+We follow a **DIRE** criteria, which stands for "Developer Intended, Recognized, or Encouraged" - this is the overarching criteria for an objective to be point-valued on the site.
 
 [[toc]]
 
 ## Primary Objectives (POs)
-Also known as POs.
-
 Challenges presented by the developer of a game in an unambiguous manner. Typically in forms associated with primary gameplay progression.
 
 Examples include: 
@@ -30,7 +28,7 @@ In some rare cases, objectives may be grouped according to modes, but the object
 
 ## Secondary Objectives (SOs)
 
-::: warning PLEASE NOTE
+::: danger SOs are in their infancy
 Secondary objectives were officially introduced in April 2026. The scope of 'what is an SO' will continue to develop as additional examples are brought to the team.
 
 The list of examples below is not expected to be exhaustive, and the examples may be further expanded upon or restricted as additional edge cases are worked through.
@@ -38,30 +36,108 @@ The list of examples below is not expected to be exhaustive, and the examples ma
 
 Anything that can be argued to fall within **DIRE** that is not immediately obvious or may be ambiguous to most players, or unambiguous but highly indirect forms of gameplay progression.
 
-Examples include:
-- Levels behaving differently based on a specific and unique play pattern.
-- Where a modifier is only selectable before a run starts, and cannot be changed or turned off mid-run, and the modifier is intended or presented to the player as a means of making the run more challenging, then beating the game with just that modifier (and no other modifiers).
-  - How the modifier is presented in-game factors into the objective's viability: for instance, if the modifier is presented right before the start of each level/run, instead of being found several layers deep into a settings menu, there is a clearer intent to beat levels with the modifier.
-  - Combinations of modifiers are not grounds for inclusion as an SO, absent other indication of developer intent or encouragement.
-- Placement on a leaderboard found in game.
-- Ambiguous rewards based on performance (impermanent minor changes in cutscenes).
-- Challenges found on or presented by a developer through the platform in which the game was published on. Challenges seen in officially published game manuals, or developer made content through the steam workshop for example.
-- Developer curated community made content within a game (varying degrees of curation may be on a case by case basis); challenges within that content are exempt unless also explicitly encouraged by the developers (for example, beating curated maps from Track Central in Trials, but not getting diamond medals on them).
+Examples are included below, with an attempt to categorise existing rulings under the following broad headings:
+
+### Gameplay characteristics
+The following gameplay characteristics are eligible as a basis for inclusion as an SO:
 - Impermanent collectables.
-- Easter eggs (within reason).
-- Developer expressed encouragement to attempt something found consistently and unambiguously **within the game** (i.e. not a developer post on Twitter, text in a Steam update, etc).
-- Multiple playable characters for existing PO content (does not pair with thresholds of competency unless uniquely tracked / balanced for it)
-- Solo mode completions in games built for multiplayer where singleplayer is a selectable option (under consideration)
-- 1CC/one-credit-clear in games where credit use would result in score being voided or a game over is present (may be paired with difficulty, may not be paired with multiple characters/weapon types/ships/etc unless tracked).
-- Rhythm ranks/grades which require timing/accuracy higher than that of an FC (subject to consideration / further refinement).
 - Weapon/item unlocks that are not explicitly tracked collectables.
-- Bonuses obtained through performance that are not directly associated with grades/ranks. (1-ups, extra lives, etc. if they would be hard enough.)
+- Accessing Easter eggs (within reason).
+- Levels behaving differently based on a specific and unique play pattern.
+- Ambiguous rewards based on performance (eg: impermanent minor changes in cutscenes).
+
+### Different playable characters (or ships, or similar)
+- Multiple playable characters for existing PO content (does not pair with thresholds of competency unless uniquely tracked / balanced for it)
+
+### Developer encouragement
+The following examples of developer encouragement are eligible as a basis for inclusion as an SO:
+- Challenges found on or presented by a developer through the platform in which the game was published on. Challenges seen in officially published game manuals, or developer made content through the steam workshop for example.
+- Developer-expressed encouragement to attempt something found consistently and unambiguously **within the game** (i.e. not a developer post on Twitter, text in a Steam update, etc).
+- Placement on a leaderboard found in game (the existence of a leaderboard acts as an official encouragement to <i>place on</i> the leaderboard)
+- Bonuses obtained through performance that are not directly associated with grades/ranks (eg: 1-ups, extra lives, etc. if they would be hard enough.)
 - Beating pre-loaded high scores / times that are set by the dev and visible in a context where beating them is encouraged.
-- Completing a 1cc if failing would result in some permanent penalty, such as score being reset or locking you out of an alternate route, OR there is some on-screen indication that the game is over or that you have failed somehow, OR the 1cc is displayed temporarily upon completion.
 
-### Extra caveats
+### Modifiers
+Where a modifier is:
+- only selectable before a run starts, <i>**and**</i>
+- cannot be changed or turned off mid-run, <i>**and**</i>
+- the modifier is intended or presented to the player as a means of making the run more challenging
 
-- If a difficulty would be selected or triggered in a way that differs too much from standard difficulties found within the same game, then completing those should by default be considered SO. For example, if you initiate "Normal" and "Hard" difficulty by selecting them at the start of a game, but can only attempt "Cataclysmic" difficulty by entering a hidden menu, a beta branch, a menu for alternative/untested/unintended modes, etc. then doing anything with respect to "Cataclysmic" difficulty in this example would be considered SO. Any challenges normally paired with difficulties that are defined as PO (earning ranks, collectibles, boss rush etc.) for SO based difficulties are themselves also fair game for SO.
+then beating the game with just that modifier (and no other modifiers) would be eligible as an SO.
+
+::: warning Modifier combinations
+The existence of multiple modifiers that can be enabled at the same time is not, in and of itself, considered developer encouragement.
+
+Combinations of modifiers are not grounds for inclusion as an SO, absent other indication of developer intent or encouragement for their combination.
+:::
+
+#### Modifier considerations:
+- Where there are multiple difficulties present, the application of a modifier would be assumed on the highest difficulty.
+- How the modifier is presented in-game factors into the objective's viability: for instance, if the modifier is presented right before the start of each level/run, instead of being found several layers deep into a settings menu, there is a clearer intent to beat levels with the modifier.
+- Where a modifier has minimal discrete, and finite, thresholds that can be set, the maximum threshold for that single modifier would be the basis for SO-eligibility.
+- Modifiers with a sliding-scale, with more than minimal discrete options selectable, are **NOT** considered SO-eligible absent other developer encouragement (eg: explicitly-coded ranks/accolades/similar for meeting certain thresholds or maxing a scale).
+  - This may include modifiers for playable character HP or speed, enemy HP or speed, song speed, etc
+
+
+### Developer-curated community-made content
+
+CE eligibility for developer-curated content can only be stretched to the limit of playing the content. Any additional challenges or modifications to featured/curated content (in any game) is a byproduct of the user setting those limitations, or piggybacking off of a static feature the developers created across all content, user-created or otherwise.
+
+Examples of features that would not be eligible for inclusion as an SO, absent other in-game recognition or encouragement by the developers:
+- [Static-feature] Achieving a judgement-based grade, where the grade is intrinsic to the mechanics of the game. Examples include:
+  - A 'full combo' or 'pure perfect' outcome in a rhythm game
+  - A 'max grade' in a game where the grade is intrinsic to the mechanics of the game (eg: an 'SS' in Dustforce)
+- [User-set feature] Beating a user-set threshold for a feature rewarded in the underlying game. Examples include:
+  - A time-based threshold that awards a medal/rank/grade (eg: <TBD>)
+  - A death/lives-based threshold (eg: a diamond medal in Trials Rising, based on faults within a theoretical curated user-made track)
+
+For a challenge <i>within</i> user created content to be viable as an SO, it needs to:
+- have been balanced in some way by the developers, or
+- interacted with by the developers beyond simply 'being curated', or
+- presented in such a way that there is explicit developer encouragement for achieving the user-set challenge.
+
+There are two primary mechanisms for curation, each of which have different considerations that apply to SO eligibility.
+
+#### Pre-installed content
+How pre-installed community-made content is presented within a game is critically important to how it is categorised on the site.
+- Where community-made content is presented as core game content and not distinguished as 'curated' or 'community' content, this would fall as PO. Examples include:
+  - [Astrogon](https://cedb.me/game/ec821a86-585f-4434-b135-7aaaf5e80d8e)'s Supernova world
+- If presented and labelled as Community/User-created and curated/featured content, it can be no more than SO. Examples include:
+  - [Dustforce](https://cedb.me/game/50faeeb7-afd2-459d-946c-94b9b9b88b5d)'s CMP (Accessible level set labelled as "**Community** map pack" in-game)
+  - [VVVVVV](https://cedb.me/game/e7b09b01-e52f-443e-97a3-cd1aac854b3f)'s 'levels' menu content (the "levels" menu separate to the "play" menu with the main game, with menu text "to install *new player levels [...]*")
+
+
+#### Downloadable content
+Games that enable the creation of community-made content which is then curated by the developers is <TBD>
+
+
+
+
+### Selectable game difficulty
+If a difficulty would be selected or triggered in a way that differs too much from standard difficulties found within the same game, then completing those should by default be considered SO.
+
+For example, if you initiate "Normal" and "Hard" difficulty by selecting them at the start of a game, but can only attempt "Cataclysmic" difficulty by entering a hidden menu, a beta branch, a menu for alternative/untested/unintended modes, etc. then doing anything with respect to "Cataclysmic" difficulty in this example would be considered SO.
+
+Any challenges normally paired with difficulties that are defined as PO (earning ranks, collectibles, boss rush etc.) for SO-based difficulties are themselves also fair game for SO.
+
+### One credit clear (1cc)
+Completing a game in a single life/credit is not of-itself a means for a 1cc objective to be eligible beyond a Community Objective.
+
+For a 1cc objective's eligibility as an SO, then one of the following criteria needs to be met:
+- If failing would result in some penalty, such as:
+  - Score being reset
+  - Being locked out of an alternate route
+  - An on-screen indication that the game is over or that you have failed somehow
+- If successfully completing a 1cc, and '1cc' (or similar recognition) is displayed temporarily upon completion.
+- A score bonus is applied for having completed the game in one credit.
+
+In all cases, the SO may be paired with difficulty (typically, the highest difficulty), but may not be paired with multiple characters/weapon types/ships/etc unless tracked in-game at that granularity.
+
+### SO criteria under consideration
+- Solo mode completions in games built for multiplayer where singleplayer is a selectable option (under consideration)
+- Rhythm ranks/grades which require timing/accuracy higher than that of an FC (subject to consideration / further refinement).
+- Quality-impacted objectives that would otherwise fall as PO
+  - Examples currently on the site include [OCO](https://cedb.me/game/3e10efcb-68a9-4160-b478-be92c637de7d), and [Reckpunk](https://cedb.me/game/4922ebac-c21d-4e4b-8189-1bf017005c06)
 
 
 ## Community Objectives (COs)
