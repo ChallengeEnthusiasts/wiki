@@ -48,9 +48,9 @@ The following gameplay characteristics are eligible as a basis for inclusion as 
 ### Different playable characters
 Completing existing PO content with alternate characters (or ships, or similar) is eligible for inclusion as SO, subject to the other character(s) playing noticeably differently such as to impact the difficulty.
 
-This does not pair with thresholds of competency (medals / ranks / grades / 1CC completions etc) unless:
+This does not pair with thresholds of competency (medals / ranks / grades / 1CC completions / etc) unless:
 - uniquely tracked in some way (eg: medals on a character selection screen, or achievements), **or**
-- where the thresholds of competency are balanced by-character.
+- the thresholds of competency are balanced by-character.
 
 It is worth noting that any such objective has the possibility to be promoted to PO if there is an unambiguous reward for specifically completing a feat with all characters.
 
@@ -94,12 +94,12 @@ If there is other specific indication of developer intent or encouragement for t
 - How the modifier is presented in-game factors into the objective's viability: for instance, if the modifier is presented before the start of each level/run, instead of being found several layers deep into a settings menu, there is a clearer intent to beat levels with the modifier.
 - Where a single modifier has <u>minimal</u> discrete, and finite, thresholds that can be set, the maximum threshold for that single modifier would be the basis for SO-eligibility.
 - Modifiers with a sliding-scale, with more than minimal discrete options selectable, are **NOT** considered SO-eligible absent other developer encouragement (eg: explicitly-coded ranks/accolades/similar for meeting certain modifier thresholds).
-  - This may include modifiers for playable character HP or speed, enemy HP or speed, song speed, etc
+  - This may include modifiers for playable character HP or speed, enemy HP or speed, song speed, etc.
 
 
 ### Developer-curated community-made content
 
-CE eligibility for developer-curated content can only be stretched to the limit of playing the content, absent specific further developer effort made to recognise or encourage feats beyond just completion.
+CE eligibility for developer-curated content can only be stretched to the limit of beating the content, absent specific further developer effort made to recognise or encourage feats beyond just completion.
 
 Any additional challenges or modifications to featured/curated content (in any game) is a byproduct of the user setting those limitations, or piggybacking off of a static feature the developers created across all content, user-created or otherwise.
 
