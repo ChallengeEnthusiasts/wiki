@@ -7,7 +7,7 @@ description: Definition of objectives and all their possible types and reasoning
 
 Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.
 
-We follow the [**DIRE** framework](/general/details/DIRE), which stands for "<u>**D**</u>eveloper <u>**I**</u>ntended, <u>**R**</u>ecognized, or <u>**E**</u>ncouraged" - this is the overarching criteria for an objective to be point-valued on the site.
+We follow the [**DIRE** framework](/general/details/dire), which stands for "<u>**D**</u>eveloper <u>**I**</u>ntended, <u>**R**</u>ecognized, or <u>**E**</u>ncouraged" - this is the overarching criteria for an objective to be point-valued on the site.
 
 Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.  
 In some rare cases, objectives may be grouped according to modes, but the objectives inside these modes will be sorted as previously described.
@@ -15,7 +15,7 @@ In some rare cases, objectives may be grouped according to modes, but the object
 [[toc]]
 
 ## Primary Objectives (POs)
-Challenges presented by the developer of a game in an unambiguous manner, aligning with the [DIRE framework](/general/details/DIRE). Typically in forms associated with primary gameplay progression.
+Challenges presented by the developer of a game in an unambiguous manner, aligning with the [DIRE framework](/general/details/dire). Typically in forms associated with primary gameplay progression.
 
 Examples of POs include:
 - Steam achievements, Playstation Trophies, XBOX Achievements. Any achievement that was published by the developer of the game.
