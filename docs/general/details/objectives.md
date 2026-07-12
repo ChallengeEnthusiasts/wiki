@@ -23,7 +23,7 @@ Examples of POs include:
 - Assigned unambiguous thresholds of competency (grades, medals, ranks, badges). May be paired with difficulties and modes. For example, two modes, - Campaign and Boss Rush, both have Normal and Hard difficulties, the player is awarded a grade based on performance from D-A, A ranks would be PO in both modes on Hard. These do not need to be permanent.
 - Readily accessed physical content that is not deeply hidden or obscure. Bonus levels.
 - Tracked collectables (the collectables must be permanent, a mode that terminates itself under criteria other than intentional manual deletion are exempt).
-- Completing a 1cc (1 credit clear) if doing so is displayed somewhere permanently as having been completed. In some cases it may be ambiguous enough to be SO, even with permanent recognition.
+- Completing a 1CC (1 credit clear) if doing so is displayed somewhere permanently as having been completed. In some cases it may be ambiguous enough to be SO, even with permanent recognition.
 
 ## Secondary Objectives (SOs)
 
@@ -48,7 +48,11 @@ The following gameplay characteristics are eligible as a basis for inclusion as 
 ### Different playable characters
 Completing existing PO content with alternate characters (or ships, or similar) is eligible for inclusion as SO, subject to the other character(s) playing noticeably differently such as to impact the difficulty.
 
-This does not pair with thresholds of competency (medals / ranks / grades / 1cc completions etc) unless uniquely tracked or balanced for it by-character.
+This does not pair with thresholds of competency (medals / ranks / grades / 1CC completions etc) unless:
+- uniquely tracked in some way (eg: medals on a character selection screen, or achievements), **or**
+- where the thresholds of competency are balanced by-character.
+
+It is worth noting that any such objective has the possibility to be promoted to PO if there is an unambiguous reward for specifically completing a feat with all characters.
 
 ### Developer encouragement
 The following examples of developer encouragement are eligible as a basis for inclusion as an SO:
@@ -99,7 +103,7 @@ CE eligibility for developer-curated content can only be stretched to the limit 
 
 Any additional challenges or modifications to featured/curated content (in any game) is a byproduct of the user setting those limitations, or piggybacking off of a static feature the developers created across all content, user-created or otherwise.
 
-Examples of features that would not be eligible for inclusion as an SO, absent other in-game recognition or encouragement by the developers:
+Examples of features relating to curated community-made content that would <u><b>not be eligible for inclusion as an SO</b></u>, absent other in-game recognition or encouragement by the developers:
 
 - [Static-feature] Achieving a judgement-based grade, where the grade is intrinsic to the mechanics of the game. Examples include:
   - A 'full combo' or 'all perfect judgements' outcome in a rhythm game
@@ -109,9 +113,9 @@ Examples of features that would not be eligible for inclusion as an SO, absent o
   (eg: a diamond medal in [Trials Rising](https://cedb.me/game/1e9a0bcc-4211-4ec4-8e93-6cc275dab6db), based on time or faults within a theoretical curated user-made track)
   - Number of portals used in user-created challenges in the game [Portal](https://cedb.me/game/35d705c9-5dc5-4857-a35e-998da34bd760)
 
-For a challenge <i>within</i> user created content to be viable as an SO, it needs to:
-- have been balanced in some way by the developers, or
-- interacted with by the developers beyond simply 'being curated', or
+For a challenge <i>within</i> user created content <u><b>to be viable as an SO, it needs to</b></u>:
+- have been balanced in some way by the developers, **or**
+- interacted with by the developers beyond simply 'being curated', **or**
 - presented in such a way that there is explicit developer recognition or encouragement for achieving the user-set challenge.
 
 Examples of the above include:
@@ -133,7 +137,7 @@ If presented and labelled as Community/User-created and curated/featured content
 - [VVVVVV](https://cedb.me/game/e7b09b01-e52f-443e-97a3-cd1aac854b3f)'s 'levels' menu content (the "levels" menu separate to the "play" menu with the main game, with menu text "to install *new player levels [...]*")
 - [A Dance of Fire and Ice](https://cedb.me/game/22177e06-2002-488a-8c90-fe3ff3849647)'s featured levels
 
-In the case of VVVVVV, obtaining all trinkets in a custom level prefixes an extra asterisk (```*```) to the level. This recognition is a static feature of the 'levels' menu, and does not in-itself suggest developer-encouragement to obtain all trinkets in the pre-installed content (therefore, just *beating* the levels would be grounds for SO).
+In the case of VVVVVV, obtaining all trinkets in a custom level prefixes an extra asterisk (```*```) to the level. This recognition is a static feature of the 'levels' menu (any level in this menu will attract the asterisk if it is beaten with all trinkets). As a result, the asterisk does not in-itself suggest developer-encouragement to obtain all trinkets in the pre-installed content (therefore, just *beating* the levels would be grounds for SO).
  
 <u>Hypothetically</u>, for both Dustforce and VVVVVV, if there were a user profile within the game that tracked how many pre-installed levels had been completed with an SS rank / with all trinkets, this could be argued as developer recognition / encouragement, and may be eligible as an SO.
 
@@ -147,7 +151,7 @@ However, if the regularity or quantity of the curations mean the list of curated
 For example, [I Wanna Maker](https://cedb.me/game/56d0314e-a40a-4024-98d0-e05bb742ee6a) has regular dev-curated playlists, containing any number of user-created levels. The sheer volume of levels curated, however, makes this not reasonable as an SO (the quantity of levels devalues the 'value' of the curation).  
 However, there are also curated 'yearly mixes' that happen with far less frequency; for this particular game, this yearly mix curation strikes a middle ground between encouragement and quantity, and has been deemed the only set of dev curations eligible to be an SO.
 
-### Selectable game difficulty
+### Obscure game difficulties
 If a difficulty would be selected or triggered in a way that differs too much from standard difficulties found within the same game, then completing those should by default be considered SO.
 
 For example, if you initiate "Normal" and "Hard" difficulty by selecting them at the start of a game, but can only attempt "Cataclysmic" difficulty by entering a hidden menu, a beta branch, a menu for alternative/untested/unintended modes, etc. then doing anything with respect to "Cataclysmic" difficulty in this example would be considered SO.
@@ -157,15 +161,15 @@ Any challenges normally paired with difficulties that are defined as PO (earning
 A notable example would be [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f), which has several hidden difficulties - a PO for beating Boss Rush on the highest normally-selectable difficulty is also present as an SO for each of the (harder) hidden difficulties.
 **Completing <u>all Primary Objectives</u> in a game is the basis for completion.** This also requires all 0-point primary objectives (whether uncleared or unvalued) if they exist.
 
-### One credit clear (1cc)
-Completing a game in a single life/credit is not of-itself a means for a 1cc objective to be eligible beyond a Community Objective.
+### One credit clear (1CC)
+Completing a game in a single life/credit is not of-itself a means for a 1CC objective to be eligible beyond a Community Objective.
 
-For a 1cc objective's eligibility as an SO, then one of the following criteria needs to be met:
+For a 1CC objective's eligibility as an SO, then one of the following criteria needs to be met:
 - If failing would result in some penalty, such as:
   - Score being reset
   - Being locked out of an alternate route
   - An on-screen indication that the game is over or that you have failed somehow
-- If successfully completing a 1cc, and '1cc' (or similar recognition) is displayed temporarily upon completion.
+- If successfully completing a 1CC, and '1CC' (or similar recognition) is displayed temporarily upon completion.
 - A score bonus is applied for having completed the game in one credit.
 
 In all cases, the SO may be paired with difficulty (typically, the highest difficulty), but may not be paired with multiple characters/weapon types/ships/etc unless tracked in-game at that granularity.
@@ -175,6 +179,7 @@ In all cases, the SO may be paired with difficulty (typically, the highest diffi
 - Rhythm ranks/grades which require timing/accuracy higher than that of an FC (subject to consideration / further refinement).
 - Quality-impacted objectives that would otherwise fall as PO
   - Examples currently on the site include [OCO](https://cedb.me/game/3e10efcb-68a9-4160-b478-be92c637de7d), and [Reckpunk](https://cedb.me/game/4922ebac-c21d-4e4b-8189-1bf017005c06)
+- Reaching the end of unique hand-placed/created obstacles that exceeds the point where the maximum reward is given to a player (eg: the Trials series skill games). How this is presented to the player is important, and the general write-up of relevant scenarios is pending.
 
 
 ## Community Objectives (COs)
@@ -189,8 +194,9 @@ Examples:
 - ✅ Mode/Modifier combinations that don't fall under DIRE or are not otherwise PO/SO ([Hades](https://cedb.me/game/847d86f5-65c6-4f68-b5a7-ed0c8de895f4) 64 Heat).
 - ✅ Objectives that do fall under DIRE, but are not PO/SO for reasons such as redundancy, or low overall difficulty (such as [Balatro](https://cedb.me/game/56be6b0c-365c-4741-a60f-84743133a55a)'s completionist achievements - Although these meet the 5 point threshold and are unique challenges, the amount of effort and grind required for such a low amount of points simply isn't worth having these be PO required for completion).
 - ✅ Beating a static developer time that is not recognized in-game or a well known speedrun time (such as the [Splodey](https://cedb.me/game/eae35c55-f2b6-4696-a883-a117f20ec18a) event record).
-- ✅ Obtaining all RetroAchievements, as these are typically include content that is not recognized by the original developers.
+- ✅ Obtaining all RetroAchievements, as these typically include content that is not recognized by the original developers.
 - ✅ Milestones for harder objectives (such as doing all zones separately as practice for a tougher YOLO objective, where doing the individual zones/checkpoints deathless is not developer recognized)
+- ✅ Dev-created content that is no longer present in the latest version of a game. This could be in the form of content that is no longer officially available (eg: [TrackMania² Canyon](https://cedb.me/game/6e6edb7f-6def-45d1-af53-8af86535282f)'s Platform campaign), developer times that were previously harder and subsequently nerfed in the latest version (the current developer times would be eligible as PO), or similar.
 
 - 🚫 PVP or other Dynamic Challenges, as even though these can fall under DIRE, the experience will differ for every player and doesn't provide a consistent challenge. (Subject to consideration)
 - 🚫 Challenges that do not meet the 5 point threshold for difficulty on the site
