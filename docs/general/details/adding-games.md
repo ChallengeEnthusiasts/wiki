@@ -69,7 +69,7 @@ Regardless of difficulty, we don't allow these games:
 - Games where the challenge can be hidden between thousands of hours of casual gameplay.
 - Games that don't meet our [quality guidelines](#quality-guidelines).
 - Digitally-distributed games without a developer-provided download option for the game.
-  - The download may through a digital distribution platform (Steam, itch etc), or hosted on a developer's website/similar.
+  - The download may be through a digital distribution platform (Steam, itch, Google Play Store, etc), or hosted on a developer's website/similar.
 
 Games on Early Access are subject to some scrutiny. It'd be better if **their core gameplay loop is finished or abandoned**, otherwise they may be left on hold.
 
