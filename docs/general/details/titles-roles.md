@@ -169,11 +169,11 @@ Once awarded, titles/roles from this section cannot be lost.
 
 The following titles / roles are awarded for fully completing a high-valued game. These are broken into several categories, depending on the tier of game. 
 
-These are split into 4 categories based on point thresholds.
-Orange Roles: 150-195 Points
-Yellow Roles: 200-395 Points
-Black Roles: 400-795 Points
-White Roles: 800+ Points
+These are split into 4 categories based on point thresholds:
+- Orange Roles: 150-195 Points
+- Yellow Roles: 200-395 Points
+- Black Roles: 400-795 Points
+- White Roles: 800+ Points
 
 ::: danger Title / Role retention
 Unlike titles/roles in previous sections, if a game has additional POs or requirements added, the title/role will not be maintained; the game must be completed (all Primary Objectives earned) to be awarded.
@@ -228,6 +228,7 @@ Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs
 | Dust Destroyer | [Dustforce](https://cedb.me/game/50faeeb7-afd2-459d-946c-94b9b9b88b5d) | Yellow |
 | Elastic Maniac | [Elasto Mania Remastered](https://cedb.me/game/23e98cde-9c42-46e0-9b36-aa50ab1db77d) | White |
 | Elastic Re-Maniac | [Elasto Mania II](https://cedb.me/game/6fc3d0f5-0234-48ce-8b9e-bfd39e62ff1b) | Orange |
+| Professional Exoracer | [Exoracer](https://cedb.me/game/260e26af-4953-4d48-bfc3-a249837abd01) \* | Yellow |
 | Legume Lord | [Garbanzo Quest](https://cedb.me/game/76ee4be2-007a-4df5-a452-a4fb040553e1) \* | Yellow |
 | Geometrical Dominator | [Geometry Dash](https://cedb.me/game/1f67cb6d-926b-4af5-877e-73d3050d4684) | Yellow |
 | Legendary Marble Challenger | [Great Marble Adventure](https://cedb.me/game/e542ce6d-c7da-4def-a8b2-0ef99989c9e6) | Orange |
@@ -273,6 +274,7 @@ Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs
 | Spellbreaker | [Rabbit and Steel](https://cedb.me/game/f10ddec9-49cc-43d2-8149-3e960eb7acd4) | Orange |
 | CEO | [Roto Force](https://cedb.me/game/f3622d64-791a-407d-8564-a579cb68de87) | Orange |
 | Endless Nightmare | [RUN: The world in-between](https://cedb.me/game/ec0a8f17-0960-4b02-b0f5-70e345812c1c) | Yellow |
+| Revolutionary | [Sektori](https://cedb.me/game/4ab2b4e2-144e-455c-a57e-eaf85abdc0d4) | Yellow |
 | Martial Arts Prodigy | [Sifu](https://cedb.me/game/53c4e85f-4e43-4d51-823e-cabe21302e88) | Orange |
 | Shadow Hunter | [Shadow Corridor 2 雨ノ四葩](https://cedb.me/game/20322d61-5f6d-4725-9469-66df9fd455e5) | Yellow |
 | Defier of Fate | [Shiren the Wanderer: The Tower of Fortune and the Dice of Fate \| Shiren 5](https://cedb.me/game/d5fa9983-ebaa-4faf-8c5a-f537c15c0f77) | Yellow |
