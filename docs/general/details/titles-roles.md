@@ -167,7 +167,13 @@ Once awarded, titles/roles from this section cannot be lost.
 
 ## High value game completions
 
-The following titles / roles are awarded for fully completing a high-valued game. These are broken into several categories, depending on the tier of game.  
+The following titles / roles are awarded for fully completing a high-valued game. These are broken into several categories, depending on the tier of game. 
+
+These are split into 4 categories based on point thresholds.
+Orange Roles: 150-195 Points
+Yellow Roles: 200-395 Points
+Black Roles: 400-795 Points
+White Roles: 800+ Points
 
 ::: danger Title / Role retention
 Unlike titles/roles in previous sections, if a game has additional POs or requirements added, the title/role will not be maintained; the game must be completed (all Primary Objectives earned) to be awarded.
@@ -179,7 +185,7 @@ If a user with all POs earned completes Secondary Objectives that push the point
 
 A user <u>does not need to have earned all SOs</u> to be eligible for a higher title/role colour.
 
-For example, at the time of writing, [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) has POs worth 100 points, and secondary objectives worth over 300 points. Depending on the SOs earned, the 'Bunny Lover' role could be earned as an Orange, Yellow or Black title.
+For example, at the time of writing, [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) has POs worth 100 points, and secondary objectives collectively worth over 300 points, bringing the game to over 400 total. Depending on the SOs earned, the 'Bunny Lover' role could be earned as an Orange, Yellow or Black title.
 
 These SO-dependant titles/roles will only be available on the site once implemented, rather than as a Discord role (due to role space limitations in the server).
 :::
@@ -187,136 +193,115 @@ These SO-dependant titles/roles will only be available on the site once implemen
 
 Games listed with an asterisk (```*```) are impacted by Secondary Objectives/SOs.
 
-
-**Orange roles**, for completing a Tier 4 game valued at ```[150-200)``` points:
-
-| Title / Role | Game | Colour |
+| Title / Role | Game | Colour(s) |
 | :----------- | :---- | :---- |
 | Akashic Fighter | [∀kashicverse -Malicious Wake-](https://cedb.me/game/3879e3c7-8467-466e-9037-c1f524c336b2) | Orange |
-| Angry Nerd | [Angry Video Game Nerd Adventures](https://cedb.me/game/2ede7bcf-66b2-4531-b396-c351f063e4ba) | Orange |
-| Universal Hero | [Bleed 2](https://cedb.me/game/41c40d2d-42e6-4c3b-9db9-c251c6194900) | Orange |
-| Ultimate Cheating Lifeform | [Danmaku Amanojaku ~ Impossible Spell Card.](https://cedb.me/game/1613e135-ccaa-4270-abcf-3902e9a472eb) | Orange |
-| Pianist Reborn | [DEEMO -Reborn-](https://cedb.me/game/071209da-f9f9-4cfa-aae3-0d7f9811ba9f) | Orange |
-| Sawbringer | [DOOM: The Dark Ages](https://cedb.me/game/282eac56-698b-41ee-a53d-7e44c38abeb5) | Orange |
-| Elastic Re-Maniac | [Elasto Mania II](https://cedb.me/game/6fc3d0f5-0234-48ce-8b9e-bfd39e62ff1b) | Orange |
-| Legendary Marble Challenger | [Great Marble Adventure](https://cedb.me/game/e542ce6d-c7da-4def-a8b2-0ef99989c9e6) | Orange |
-| Hans | [Hans](https://cedb.me/game/6a2aa61b-8919-41c0-a0b6-6c0a68148524) | Orange |
-| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) \* | Orange |
-| Aimbot | [KovaaK's](https://cedb.me/game/081c5f7d-b5c1-4f4d-9fa6-6eeafda71c20) | Orange |
-| Lovesick | [LOVE 3](https://cedb.me/game/d3b7e30c-cbe5-4404-8013-d79ef7b624ff) | Orange |
-| Robot Master | [Mega Man: Powered Up](https://cedb.me/game/82476c60-d2f5-4a2f-844a-bdbb023d9124) | Orange |
-| VSRG Master | [MUSYNX](https://cedb.me/game/4faaba0b-c835-4e53-91c6-619e562cd145) | Orange |
-| Nex Humanus | [Nex Machina](https://cedb.me/game/7c27ea8d-ad3c-4a61-888b-6fe8519a0e2a) | Orange |
-| Master Ninja | [NINJA GAIDEN Σ](https://cedb.me/game/f722baf5-4c1a-4fa3-9482-5ce6db203c73) | Orange |
-| Spirographic Designer | [OCO](https://cedb.me/game/3e10efcb-68a9-4160-b478-be92c637de7d) | Orange |
-| Omnidirectional Sound Maestro | [Old School Musical](https://cedb.me/game/6cd5fb52-b137-448f-9203-ed74cd524e9e) | Orange |
-| Lightning Conduit | [Raiden IV: OverKill](https://cedb.me/game/739bc622-7db3-48e2-8eea-ee03e960c957) | Orange |
-| Lightning Conduit | [Raiden IV x MIKADO remix](https://cedb.me/game/f52f156d-4ca1-41ba-b256-a028da59d58c) | Orange |
-| Spellbreaker | [Rabbit and Steel](https://cedb.me/game/f10ddec9-49cc-43d2-8149-3e960eb7acd4) | Orange |
-| CEO | [Roto Force](https://cedb.me/game/f3622d64-791a-407d-8564-a579cb68de87) | Orange |
-| Martial Arts Prodigy | [Sifu](https://cedb.me/game/53c4e85f-4e43-4d51-823e-cabe21302e88) | Orange |
-| Quart-God | [Super Cloudbuilt](https://cedb.me/game/f953f6bc-7d67-47f5-94d6-e7302da0fe1d) | Orange |
-| Meat Beater | [Super Meat Boy Forever](https://cedb.me/game/b6d65b4d-43e0-4547-9439-810f581b01fb) | Orange |
-| Magicgazer | [Sympathia](https://cedb.me/game/b6c466f3-8a57-47f5-b135-ac296a4d8b5f) | Orange |
-| \<TBD\> | [Tetris: The Grand Master](https://cedb.me/game/b3dd86e5-20a7-44ff-86dd-a4cf3a2db012) | Orange |
-| Golden Beetle | [Thumper](https://cedb.me/game/ab6f6ce4-97c7-4e3b-ac66-a0574e4ac062) | Orange |
-| Pure Being | [Touhou Kanjuden ~ Legacy of Lunatic Kingdom.](https://cedb.me/game/c4e82c1c-0ba0-4a84-9e95-86cb6db7e171) | Orange |
-| Hawkeye | [TowerFall Ascension](https://cedb.me/game/6d210be2-50de-49f4-a533-8eb5fa0c6bbc) | Orange |
-| Bloodline Avenger | [vridniX](https://cedb.me/game/3ba0d760-9c23-4519-b0dd-75faf48c6527) | Orange |
-| General Wee | [Wee Tanks!](https://cedb.me/game/67572fba-5a2b-45fe-ad40-2a8ff2dd7f26) | Orange |
-
-
-**Yellow roles**, for completing a Tier 5 game:
-
-| Title / Role | Game | Colour |
-| :----------- | :---- | :---- |
 | Melody Master | [A Dance of Fire and Ice](https://cedb.me/game/22177e06-2002-488a-8c90-fe3ff3849647) | Yellow |
+| Angry Nerd | [Angry Video Game Nerd Adventures](https://cedb.me/game/2ede7bcf-66b2-4531-b396-c351f063e4ba) | Orange |
 | Lord of the Nerds | [Angry Video Game Nerd I & II Deluxe](https://cedb.me/game/a2fd702d-8896-4e0e-88e6-84104898ff8f) | Yellow |
 | Prime Ape | [APE OUT](https://cedb.me/game/9de86b88-6632-40e8-b7d2-592fee970bd7) | Yellow |
 | Hypernova | [Astrogon](https://cedb.me/game/ec821a86-585f-4434-b135-7aaaf5e80d8e) | Yellow |
 | Child Soldier | [Battle Kid: Fortress of Peril](https://cedb.me/game/77b612a2-6123-4ada-9709-6bc6edda468f) | Yellow |
+| Saber Savant | [Beat Saber](https://cedb.me/game/f11fa5a4-7c04-4cca-8c15-0f03abf8ede1) | Black |
 | Crazed Hopper | [Bhop Craze](https://cedb.me/game/60163c66-c6f4-488c-b66d-5c94697c1db6) | Yellow |
+| Universal Hero | [Bleed 2](https://cedb.me/game/41c40d2d-42e6-4c3b-9db9-c251c6194900) | Orange |
 | Glutton for Punishment | [Bob Was Hungry](https://cedb.me/game/af48acfb-3599-47a1-998c-0fe702dd22e8) | Yellow |
 | True American | [Broforce](https://cedb.me/game/c93b650a-c7f9-41cd-a0b3-c21da98aa84a) | Yellow |
 | Rabbit's Foot | [Bunny Hop: Eggstreme](https://cedb.me/game/d8226935-eb6c-491f-aac2-d6db16691de7) | Yellow |
 | \<TBD\> | [Capcom Arcade Stadium：Progear](https://cedb.me/game/8011bccc-4d7e-4bff-8703-456fc9f742c4) | Yellow |
 | Strawberry Lunatic | [Celeste](https://cedb.me/game/1e866995-6fec-452e-81ba-1e8f8594f4ea) | Yellow |
 | Space Invader | [Chippy](https://cedb.me/game/49018728-d19c-48d7-b3cd-d60bfa3f1088) | Yellow |
+| Cloudberry King | [Cloudberry Kingdom](https://cedb.me/game/95dc81da-a00b-48f0-9d44-a6298fd22d4d) | Black |
 | Demi-God | [Cloudbuilt](https://cedb.me/game/84496d96-e271-4e5b-afa3-851e18a5986a) | Yellow |
 | Type Z | [Crimzon Clover WORLD IGNITION](https://cedb.me/game/cf18fbe3-95bd-4252-bf3c-2f8938f9b597) | Yellow |
 | Type Z | [Crimzon Clover World EXplosion](https://cedb.me/game/197d8bb9-8fb5-4015-b32a-4cecec7a3c42) | Yellow |
+| Dancing Queen | [Crypt of the Necrodancer](https://cedb.me/game/222dbb63-3e42-4bd8-9528-216dd1f82ffb) | Black |
+| Ultimate Cheating Lifeform | [Danmaku Amanojaku ~ Impossible Spell Card.](https://cedb.me/game/1613e135-ccaa-4270-abcf-3902e9a472eb) | Orange |
 | Dungeon Master | [Deathless Dungeon](https://cedb.me/game/43dc8349-6d7e-452e-9d07-879573c6bbcb) | Yellow |
 | True Tyrant | [Deathsmiles](https://cedb.me/game/a774fef0-fb99-4f11-8cc5-ac39c9591220) | Yellow |
+| Pianist Reborn | [DEEMO -Reborn-](https://cedb.me/game/071209da-f9f9-4cfa-aae3-0d7f9811ba9f) | Orange |
+| The GOAT | [Desktop Dungeons](https://cedb.me/game/3ae88663-19d9-4e13-8622-7986aaee9cbc) | Black |
 | Dagger Deity | [Devil Daggers](https://cedb.me/game/f572d3dd-20b2-4ef2-9dfb-067201c408fd) | Yellow |
+| Savior of Humanity | [DoDonPachi Resurrection](https://cedb.me/game/e1b61d7f-1ad8-46b1-86fc-20bd5f403978) | Black |
 | DOOMED | [DOOM Eternal](https://cedb.me/game/5d268c17-5bd0-4eeb-b40f-adc3a0289072) | Yellow |
+| Sawbringer | [DOOM: The Dark Ages](https://cedb.me/game/282eac56-698b-41ee-a53d-7e44c38abeb5) | Orange |
 | Dust Destroyer | [Dustforce](https://cedb.me/game/50faeeb7-afd2-459d-946c-94b9b9b88b5d) | Yellow |
+| Elastic Maniac | [Elasto Mania Remastered](https://cedb.me/game/23e98cde-9c42-46e0-9b36-aa50ab1db77d) | White |
+| Elastic Re-Maniac | [Elasto Mania II](https://cedb.me/game/6fc3d0f5-0234-48ce-8b9e-bfd39e62ff1b) | Orange |
 | Legume Lord | [Garbanzo Quest](https://cedb.me/game/76ee4be2-007a-4df5-a452-a4fb040553e1) \* | Yellow |
 | Geometrical Dominator | [Geometry Dash](https://cedb.me/game/1f67cb6d-926b-4af5-877e-73d3050d4684) | Yellow |
+| Legendary Marble Challenger | [Great Marble Adventure](https://cedb.me/game/e542ce6d-c7da-4def-a8b2-0ef99989c9e6) | Orange |
+| Groove King | [Groove Coaster](https://cedb.me/game/a3f590e7-261b-4ba6-8abf-198bd92c2ecc) | Black |
 | MVP | [GTFO](https://cedb.me/game/f9417583-4d74-46e4-8472-9365bc694297) | Yellow |
 | Betelgeuse | [Gundemonium Recollection](https://cedb.me/game/723efa6d-298a-4cf9-a9b1-b142097ecc8c) | Yellow |
+| Hans | [Hans](https://cedb.me/game/6a2aa61b-8919-41c0-a0b6-6c0a68148524) | Orange |
+| \#1 Diva | [Hatsune Miku: Project DIVA Mega Mix+](https://cedb.me/game/90675a65-03e1-4bdf-ba97-68f47cd8d30a) | Black |
 | Heptagod | [HEPTAGON](https://cedb.me/game/ea76aceb-795d-4363-bf02-2f5bccec5ec7) | Yellow |
-| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) \* | Yellow |
+| Champion of Hallownest | [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) \* | Orange/Yellow |
 | Icebreaker | [How I Learned to Skate](https://cedb.me/game/8a6f7a68-c2f2-4df9-b798-a854dff09996) | Yellow |
+| DEIFIED | [HYPER DEMON](https://cedb.me/game/a5a57dd8-8dc5-4f83-8438-801321969d41) | Black |
 | Hyperboloid Prodigy | [HyperRogue](https://cedb.me/game/0783e71a-eade-4803-a961-87ae7e277978) | Yellow |
 | Final Form | [Jamestown](https://cedb.me/game/6c11d221-db46-443f-b1d1-84e351b95b5f) | Yellow |
 | Jump King | [Jump King](https://cedb.me/game/4217e27f-a6c9-4389-b219-8711a25b0886) | Yellow |
 | Kensei | [Katana ZERO](https://cedb.me/game/1d41d4eb-b72f-42cf-a02c-e356edb5442e) | Yellow |
+| Aimbot | [KovaaK's](https://cedb.me/game/081c5f7d-b5c1-4f4d-9fa6-6eeafda71c20) | Orange |
+| Movement Perfectionist | [Kreedz Climbing](https://cedb.me/game/37e2dea6-b6ef-4799-86b0-a3906c17eb85) | White |
+| Lovesick | [LOVE 3](https://cedb.me/game/d3b7e30c-cbe5-4404-8013-d79ef7b624ff) | Orange |
+| Robot Master | [Mega Man: Powered Up](https://cedb.me/game/82476c60-d2f5-4a2f-844a-bdbb023d9124) | Orange |
 | Fabled Savior | [MineRalph](https://cedb.me/game/b7c0b762-b9f2-43bd-9cd7-d45d3fbdf374) | Yellow |
+| Sleepwalker | [Muse Dash](https://cedb.me/game/6b161c1c-20f1-4e47-a951-d6cb48c7398a) | Black |
 | Koujuu Queen | [Mushihimesama](https://cedb.me/game/5c38966c-a509-46ec-b09a-8289bb8f655c) | Yellow |
+| VSRG Master | [MUSYNX](https://cedb.me/game/4faaba0b-c835-4e53-91c6-619e562cd145) | Orange |
+| ++ | [N++](https://cedb.me/game/1b3b090a-625f-40a4-9c61-c5f73fa3f430) | Black |
 | Immortal Persistence | [Never Give Up](https://cedb.me/game/9608be0e-147f-4302-9d99-4b95407dd19a) | Yellow |
+| Nex Humanus | [Nex Machina](https://cedb.me/game/7c27ea8d-ad3c-4a61-888b-6fe8519a0e2a) | Orange |
+| Master Ninja | [NINJA GAIDEN Σ](https://cedb.me/game/f722baf5-4c1a-4fa3-9482-5ce6db203c73) | Orange |
+| Void Vanquisher | [NOISZ](https://cedb.me/game/39f6d210-1320-49ca-8038-964cc4fe4ad8) | Black |
 | Eight-Faced Rogue | [Octahedron: Transfixed Edition](https://cedb.me/game/4d09b04c-33f5-4c96-8a5d-a7789af95758) | Yellow |
+| Spirographic Designer | [OCO](https://cedb.me/game/3e10efcb-68a9-4160-b478-be92c637de7d) | Orange |
+| Omnidirectional Sound Maestro | [Old School Musical](https://cedb.me/game/6cd5fb52-b137-448f-9203-ed74cd524e9e) | Orange |
 | Shapeshifter | [Open Hexagon](https://cedb.me/game/a59989ce-0420-46f9-8546-aad3750f34b7) | Yellow |
+| Peak Performer | [Peaks of Yore](https://cedb.me/game/511d2ddd-c6b1-48ec-9ec2-f5597b3f131c) | Black |
 | Black Lotus | [Petal Crash](https://cedb.me/game/970f15f0-11d4-42f4-beb5-71b6626fd409) | Yellow |
 | Prismatic Champion | [PogoChamp](https://cedb.me/game/d1b82b89-eb0a-4c9e-abed-c103973a578c) | Yellow |
 | Pogo Legend | [Pogostuck: Rage With Your Friends](https://cedb.me/game/aa2711fd-7d14-45b1-9db9-838c5d855272) | Yellow |
+| Super Natural | [QP Shooting](https://cedb.me/game/d0816c59-df93-4609-9efb-6bb26cd4ea4f) | White |
+| Bunny Lover | [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) \* | Orange/Yellow/Black |
 | Flow Artist | [Radial Flow](https://cedb.me/game/d32e7a4b-ffb3-4be2-8548-528bf5a0df01) | Yellow |
+| Lightning Conduit | [Raiden IV: OverKill](https://cedb.me/game/739bc622-7db3-48e2-8eea-ee03e960c957) | Orange |
+| Lightning Conduit | [Raiden IV x MIKADO remix](https://cedb.me/game/f52f156d-4ca1-41ba-b256-a028da59d58c) | Orange |
+| Spellbreaker | [Rabbit and Steel](https://cedb.me/game/f10ddec9-49cc-43d2-8149-3e960eb7acd4) | Orange |
+| CEO | [Roto Force](https://cedb.me/game/f3622d64-791a-407d-8564-a579cb68de87) | Orange |
 | Endless Nightmare | [RUN: The world in-between](https://cedb.me/game/ec0a8f17-0960-4b02-b0f5-70e345812c1c) | Yellow |
+| Martial Arts Prodigy | [Sifu](https://cedb.me/game/53c4e85f-4e43-4d51-823e-cabe21302e88) | Orange |
 | Shadow Hunter | [Shadow Corridor 2 雨ノ四葩](https://cedb.me/game/20322d61-5f6d-4725-9469-66df9fd455e5) | Yellow |
 | Defier of Fate | [Shiren the Wanderer: The Tower of Fortune and the Dice of Fate \| Shiren 5](https://cedb.me/game/d5fa9983-ebaa-4faf-8c5a-f537c15c0f77) | Yellow |
 | Cosmic Diver | [Spelunky 2](https://cedb.me/game/3f2fc86a-dd04-4d7d-bd38-21522ce7865f) | Yellow |
+| Spin Doctor | [Spin Rhythm XD](https://cedb.me/game/1b1be0c6-5088-4f26-8c1a-2b92a989efbe) | Black |
 | Ultimate Iron Fella | [Stilt Fella](https://cedb.me/game/5505af90-03cd-4375-b135-0e45abc3ad6a) | Yellow |
+| Quart-God | [Super Cloudbuilt](https://cedb.me/game/f953f6bc-7d67-47f5-94d6-e7302da0fe1d) | Orange |
+| Meat Beater | [Super Meat Boy Forever](https://cedb.me/game/b6d65b4d-43e0-4547-9439-810f581b01fb) | Orange |
+| Ursa Major | [Super Rude Bear Resurrection](https://cedb.me/game/dff3ca1d-f9b5-4f5e-a486-e455713c8cec) | Black |
+| Magicgazer | [Sympathia](https://cedb.me/game/b6c466f3-8a57-47f5-b135-ac296a4d8b5f) | Orange |
 | Fury of the Forest | [Tanuki Justice](https://cedb.me/game/f37937f6-2e18-48ce-b445-1d79a605348a) | Yellow |
 | Tetrachromat | [Tetrachroma](https://cedb.me/game/c8963b90-9a90-4adb-939f-9491fd1e5fe3) | Yellow |
+| Tetris Master | [Tetris® Effect: Connected](https://cedb.me/game/d28e20d0-b092-45c6-8c5b-25e448b09215) | Black |
+| \<TBD\> | [Tetris: The Grand Master](https://cedb.me/game/b3dd86e5-20a7-44ff-86dd-a4cf3a2db012) | Orange |
 | Iron God | [The End is Nigh](https://cedb.me/game/2f6ee5c4-671e-46a1-86a2-2658c609246d) | Yellow |
+| Triangulous | [Threes!](https://cedb.me/game/87b1ea5b-1e3e-4d72-a900-60b57f84e8f3) | Black |
+| Golden Beetle | [Thumper](https://cedb.me/game/ab6f6ce4-97c7-4e3b-ac66-a0574e4ac062) | Orange |
 | Toast Titan | [Toast Time](https://cedb.me/game/390b8230-0d89-42c3-b96f-92cbcb217ecb) | Yellow |
+| Pure Being | [Touhou Kanjuden ~ Legacy of Lunatic Kingdom.](https://cedb.me/game/c4e82c1c-0ba0-4a84-9e95-86cb6db7e171) | Orange |
+| Hawkeye | [TowerFall Ascension](https://cedb.me/game/6d210be2-50de-49f4-a533-8eb5fa0c6bbc) | Orange |
+| Super Track Master | [TrackMania Turbo](https://cedb.me/game/56b11b90-aa75-41b6-8378-ef243d0e865b) | White |
 | Super Soldier | [Trepang2](https://cedb.me/game/f61954cd-1d07-4af4-b8cc-3db6a22f3b09) | Yellow |
 | The Phoenix | [Trials Evolution](https://cedb.me/game/c65c5160-1eeb-4ffe-bf59-891e4eb68579) | Yellow |
-
-
-**Black roles**, for completing a Tier 6 game:
-
-| Title / Role | Game | Colour |
-| :----------- | :---- | :---- |
-| Saber Savant | [Beat Saber](https://cedb.me/game/f11fa5a4-7c04-4cca-8c15-0f03abf8ede1) | Black |
-| Cloudberry King | [Cloudberry Kingdom](https://cedb.me/game/95dc81da-a00b-48f0-9d44-a6298fd22d4d) | Black |
-| Dancing Queen | [Crypt of the Necrodancer](https://cedb.me/game/222dbb63-3e42-4bd8-9528-216dd1f82ffb) | Black |
-| The GOAT | [Desktop Dungeons](https://cedb.me/game/3ae88663-19d9-4e13-8622-7986aaee9cbc) | Black |
-| Savior of Humanity | [DoDonPachi Resurrection](https://cedb.me/game/e1b61d7f-1ad8-46b1-86fc-20bd5f403978) | Black |
-| Groove King | [Groove Coaster](https://cedb.me/game/a3f590e7-261b-4ba6-8abf-198bd92c2ecc) | Black |
-| DEIFIED | [HYPER DEMON](https://cedb.me/game/a5a57dd8-8dc5-4f83-8438-801321969d41) | Black |
-| Sleepwalker | [Muse Dash](https://cedb.me/game/6b161c1c-20f1-4e47-a951-d6cb48c7398a) | Black |
-| ++ | [N++](https://cedb.me/game/1b3b090a-625f-40a4-9c61-c5f73fa3f430) | Black |
-| Void Vanquisher | [NOISZ](https://cedb.me/game/39f6d210-1320-49ca-8038-964cc4fe4ad8) | Black |
-| Peak Performer | [Peaks of Yore](https://cedb.me/game/511d2ddd-c6b1-48ec-9ec2-f5597b3f131c) | Black |
-| \#1 Diva | [Hatsune Miku: Project DIVA Mega Mix+](https://cedb.me/game/90675a65-03e1-4bdf-ba97-68f47cd8d30a) | Black |
-| Bunny Lover | [Rabi-Ribi](https://cedb.me/game/f349949e-5606-48c8-b9a0-12a78d9ed71f) \* | Black |
-| Spin Doctor | [Spin Rhythm XD](https://cedb.me/game/1b1be0c6-5088-4f26-8c1a-2b92a989efbe) | Black |
-| Ursa Major | [Super Rude Bear Resurrection](https://cedb.me/game/dff3ca1d-f9b5-4f5e-a486-e455713c8cec) | Black |
-| Tetris Master | [Tetris® Effect: Connected](https://cedb.me/game/d28e20d0-b092-45c6-8c5b-25e448b09215) | Black |
-| Triangulous | [Threes!](https://cedb.me/game/87b1ea5b-1e3e-4d72-a900-60b57f84e8f3) | Black |
 | Pit Viper | [Trials Fusion™](https://cedb.me/game/b94450d9-99a1-4139-abca-8cbb86493535) | Black |
-| The First Observer | [vivid/stasis](https://cedb.me/game/493bdf6a-3596-4f16-ac67-de8372682370) | Black |
-
-
-**White roles**, for completing a Tier 7 game:
-
-| Title / Role | Game | Colour |
-| :----------- | :---- | :---- |
-| Elastic Maniac | [Elasto Mania Remastered](https://cedb.me/game/23e98cde-9c42-46e0-9b36-aa50ab1db77d) | White |
-| Movement Perfectionist | [Kreedz Climbing](https://cedb.me/game/37e2dea6-b6ef-4799-86b0-a3906c17eb85) | White |
-| Super Natural | [QP Shooting](https://cedb.me/game/d0816c59-df93-4609-9efb-6bb26cd4ea4f) | White |
-| Super Track Master | [TrackMania Turbo](https://cedb.me/game/56b11b90-aa75-41b6-8378-ef243d0e865b) | White |
 | Titan on Two Wheels | [Trials® Rising](https://cedb.me/game/1e9a0bcc-4211-4ec4-8e93-6cc275dab6db) | White |
+| The First Observer | [vivid/stasis](https://cedb.me/game/493bdf6a-3596-4f16-ac67-de8372682370) | Black |
+| Bloodline Avenger | [vridniX](https://cedb.me/game/3ba0d760-9c23-4519-b0dd-75faf48c6527) | Orange |
+| General Wee | [Wee Tanks!](https://cedb.me/game/67572fba-5a2b-45fe-ad40-2a8ff2dd7f26) | Orange |
+
 
 
 
