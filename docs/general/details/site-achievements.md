@@ -94,7 +94,7 @@ At present there are 11 site achievements relating to completing objectives (but
 
 ## Retro games
 
-At present there are 12 site achievements relating to Casino rolls.
+At present there are 12 site achievements relating to Retro games.
 
 | Icon | Name | Description |
 | :-- | :-- | :--|
