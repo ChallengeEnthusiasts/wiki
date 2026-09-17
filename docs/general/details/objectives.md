@@ -224,6 +224,48 @@ Note that there may be exceptions to these rules at the discretion of the CO and
 Whilst objectives falling under the CO designation do not need to adhere to the DIRE framework, they still need to meet a notional '5 point' level of difficulty to be included as an objective.
 :::
 
+
+## Rule 0 / R0
+
+'Rule 0' is a process that can be summarised as 'an exceptions-based override of the standard CE guidelines documented in this wiki, subject to enough consensus that would warrant an exception'.
+
+In the context of objective types, the R0 process relates to seeking a re-categorisation of an objective from its guidelines-based categorisation.  
+This may be from 'CO to SO', 'PO to CO' etc.
+
+The process by which this would be undertaken is as follows:
+- A member of at least A rank or higher must have a QA Team member create an override thread in #recommendations. Admins and the QA Team will be tagged into the thread.
+- A list of members eligible to vote will be established. An eligible member is one who:
+  - is C Rank or higher; **AND**
+  - has either >0 points or >10 hours of playtime in the game; **AND**
+  - has been in the server for at least 6 months prior to the creation of the override thread.
+- Once eligible voting members are identified, a poll will be conducted by one of the Admins via DMs.
+  - Each person is permitted to submit only one vote. In addition to the vote on the binary outcome, additional commentary may be provided as part of the voting process.
+  - The answer and rationale of each person will be shared with the other Admins, and/or the QA Team if deemed relevant, for verification.
+
+Once the poll has concluded, the override may take place if:
+- the poll receives a super majority (75%+) of support in favor of the override; **AND**
+- at least half of the QA Team at the time of the vote agree; **AND**
+- at least one Admin agrees.
+
+Any game impacted by a Rule 0 override will be noted as an exception, and cannot be used as a reference or justification for any other game or objective on the site.
+
+Any other such changes would need to follow the same process, on their own specific merits.
+
+### Successful override
+
+Should the outcome be in favour of an override being applied, the following will be actioned:
+
+1. The game's information box will be updated to note that particular objectives' categorisation has been overridden, and the date the override was made.
+    - The impacted objective(s) will have information attached to them (the 'i' icon) specifying the same.
+2. The overall results of the poll will be shared publicly at an aggregate level; no individual user's response will be made known.
+3. An update will be provided via #game-additions.
+
+The outcome may not be challenged again, absent extenuating circumstances (eg: a material game update), for one year after the closing of the thread.
+
+### Unsuccessful override
+
+The same override may not be polled again for one year after the closing of the previous thread.
+
 ## FAQ
 
 ### "What does uncleared mean? What are uncleared objectives?"

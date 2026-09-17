@@ -9,3 +9,6 @@ docs/markdown-examples.md
 
 #documentation only useful to the coder as reference while developing
 misc
+
+#VS Code settings
+.vscode
