@@ -90,23 +90,23 @@ The current list of supported genres, and a brief description, are detailed belo
 
 | Category | Info Tag | Description |
 | :-- | :-- | :-- |
-| Game Info | Free | The game is free to play. |
-| Game Info | Not English Supported | The game does not natively support the English language. The tag would apply even if mods enable English support |
-| Game Info | Requires Co-op | Completion requires or strongly implies the assistance of another player |
-| Game Info | VR Required | The game, or an objective from the game, *requires* VR to obtain |
-| Retro | Retro: {Console name} | The specific console the game was released on |
-| Retro | Retro: Console Group | The console grouping (Nintendo/Sony/etc) per CE's classifications |
-| Site Achievement | Animal Protagonist | The main character is a non-human animal |
-| Site Achievement | Female Protagonist | The main character is a human female |
-| Site Achievement | Loop Featured | The game is used on the CE homepage, in one of the loops |
-| Site Achievement | Mouse Focused | The game's primary means of control is with a mouse |
+| Game Info | Free | The game can be completed without spending any money. |
+| Game Info | Not English Supported | The game does not natively support the English language. The tag would apply even if mods enable English support. |
+| Game Info | Requires Co-op | Completion requires or strongly implies the assistance of another player. |
+| Game Info | VR Required | The game, or an objective from the game, *requires* VR to obtain. |
+| Retro | Retro: {Console name} | The specific console the game was released on. |
+| Retro | Retro: Console Group | The console grouping (Nintendo/Sony/etc) per CE's classifications. |
+| Site Achievement | Animal Protagonist | The main character is a non-human animal. |
+| Site Achievement | Female Protagonist | The main character is a human female. |
+| Site Achievement | Loop Featured | The game is used on the CE homepage, in one of the loops. |
+| Site Achievement | Mouse Focused | The game's primary means of control is with a mouse. |
 | Site Info | Casino Excluded | The game is not rollable in the Casino; this may be due to in-game exploits/cheese, quality reasons, or otherwise. |
-| Site Info | Curated | The game is curated on the [CE Steam Curator](https://store.steampowered.com/curator/36185934-Challenge-Enthusiasts/) |
-| Site Info | Has Community Objectives | The game has [Community Objectives](/general/details/objectives#community-objectives) |
-| Site Info | Has Secondary Objectives | The game has [Secondary Objectives](/general/details/objectives#secondary-objectives) |
+| Site Info | Curated | The game is curated on the [CE Steam Curator](https://store.steampowered.com/curator/36185934-Challenge-Enthusiasts/). |
+| Site Info | Has Community Objectives | The game has [Community Objectives](/general/details/objectives#community-objectives). |
+| Site Info | Has Secondary Objectives | The game has [Secondary Objectives](/general/details/objectives#secondary-objectives). |
 | Site Info | Uncleared | The game has an objective that has not been cleared by anyone on CE, or that has not had a value determined. |
 | Steam Info | Delisted | The game is not available for purchase on Steam. |
-| Steam Info | Overwhelmingly Positive | The game has an Overwhelmingly Positive rating on Steam (95%+ positive reviews, with at least 500 reviews). |
+| Steam Info | Overwhelmingly Positive | The game has an Overwhelmingly Positive rating on Steam (95%+ positive reviews, with at least 500 reviews). The tag may be preserved if a game falls below the 95% threshold, but will be removed if it falls below 90%. |
 
 
 ### Previously-proposed tags
