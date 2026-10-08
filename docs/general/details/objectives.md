@@ -194,7 +194,6 @@ In all cases, the SO may be paired with difficulty (typically, the highest diffi
 - Rhythm ranks/grades which require timing/accuracy higher than that of an FC (subject to consideration / further refinement).
 - Quality-impacted objectives that would otherwise fall as PO
   - Examples currently on the site include [OCO](https://cedb.me/game/3e10efcb-68a9-4160-b478-be92c637de7d), and [Reckpunk](https://cedb.me/game/4922ebac-c21d-4e4b-8189-1bf017005c06)
-- Reaching the end of unique hand-placed/created obstacles that exceeds the point where the maximum reward is given to a player (eg: the Trials series skill games). How this is presented to the player is important, and the general write-up of relevant scenarios is pending.
 
 
 ## Community Objectives (COs)
