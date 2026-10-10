@@ -402,6 +402,10 @@ As with rank/colour roles on the Discord, if you prefer the a lower-tier "Rank+"
 
 The requirements for these titles are set out below; each new tier's requirements build on previous. For completeness, the full cumulative requirements for a given rank are listed out.
 
+::: info NOTE
+Games with multiple categories assigned **only count completions towards one of them** for these roles, to maintain consistency of a multiple of 6 games required. This category can be your choice.
+:::
+
 | Title / Role | Requirements |
 | :----------- | :---- |
 | C+ | • C Rank<br>• <u>5 point</u> game completed in every category |
