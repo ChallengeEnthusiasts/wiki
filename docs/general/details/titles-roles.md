@@ -388,8 +388,8 @@ These titles / ranks relate to interaction with the CE community, or to Communit
 | Champion | Win an official CE event | Green |
 | Champion | Win a year long CE event | Black |
 | Made of Everything | Obtain 5 or more Community Objectives with "Made of" in their title | Green |
-| Overachiever | Complete 10 Community Objectives from at least 5 different games | Green |
-| Overachiever | Complete 30 Community Objectives from at least 15 games _AND_ obtain 5 green roles (other than Overachiever) | Black |
+| Overachiever | Complete 10 Community Objectives from at least 5 different games AND 5 Secondary Objectives from at least 3 different games | Green |
+| Superachiever | Complete 30 Community Objectives from at least 15 games _AND_ 10 overcompletions (from games that MUST also have at least one Primary Objective) | Black |
 
 ## Complex titles / roles
 
@@ -447,8 +447,7 @@ These titles / roles relate to administrative designations.
 | Title / Role | Description | Colour |
 | :----------- | :---- | :---- |
 | Admin | Manages large scale direction and decision making | Grey |
-| Mod | Manages one or more aspects of the Discord server, Steam group, site additions and objective changes | Grey |
-| (Category) Rep | Representative of the category, manages possible curator additions and generally has a higher voice | Grey |
+| Moderator | Manages one or more social aspects of the Discord server | Grey |
 | Site Dev | Manages site development | Grey |
 | Game Dev | Create games/Be a dev of one of the games on the site | Grey |
 | Non-Steam | Does not have a Steam account. Rank is valued upon console clears. | Grey |
