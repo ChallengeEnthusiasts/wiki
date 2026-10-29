@@ -106,7 +106,7 @@ Removals sound scary. They're certainly not a positive thing to bring up in any 
 
 There are various reasons to call for a site removal:
 - The game has gone through a massive overhaul, and none of the available challenges are worth a minimum anymore;
-- There's a core gameplay mechanic that's commonly used that trivializes all challenges present (this is subjective and may still be saved by "Tier 1 leniency" depending on the case);
+- There's a core gameplay mechanic that's commonly used that trivializes all challenges present (this is subjective, and may still fall under [Tier 1 leniency](/general/details/other-considerations.html#tier-1-leniency) depending on the case);
 - The game is extremely inconsistent for no reason and/or suffers from serious quality issues (random consistent crashes, extreme jank);
 - The game is directly not playable anymore (do not confuse with delisted games, which are a separate matter).
 

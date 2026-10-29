@@ -153,3 +153,11 @@
   --vp-nav-screen-bg-color: #0E0F12;
   
  }
+
+/**
+ * Custom blocks without a title: eg: "::: tip {no-title}"
+ * -------------------------------------------------------------------------- */
+
+.custom-block[no-title] .custom-block-title {
+  display: none;
+}

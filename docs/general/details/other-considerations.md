@@ -35,6 +35,62 @@ There are, however, situations where this leniency would not be applied, such as
    - This would be at the discretion of the moderators, and may change for an individual game over time depending on the circumstances.
    - A token number of partial points may be awarded to recognise those that legitimately achieved the objective (eg: [Sunblaze](https://cedb.me/game/58025692-ffe1-4996-8bae-dade878e8868))
 
+## Quitting to menu ('q2m')
+
+### Background
+Across many games found on CE, the 'deathless' / 'permadeath difficulty' / YOLO (<spoiler>this stands for "You Only Live Once" 🤓</spoiler>) feat is a mainstay; many developers have implemented some form of deathless / YOLO achievement, or other recognition for the feat, into their games.
+
+Developers' implementation of these deathless feats are, unfortunately, not consistent. At one end of the spectrum, a game may invalidate a deathless run when the user saves at all, and at the other end, a game may [only invalidate a run after a several-second death animation completes, but not if 'return to menu' is selected](https://cedb.me/game/9608be0e-147f-4302-9d99-4b95407dd19a).
+
+In the case of the latter, a user could collide with an obstacle that results in them dying, but 'return to the main menu to prevent the game from counting this as a death', and still have activate the trigger to earn the 'deathless' achievement.
+
+This act of 'returning to the main menu to save oneself from death, then continue the deathless run' is where the term "quit to menu", or "q2m", was born.
+
+From a CE perspective, this creates a logistical challenge - relying on an achievement, or an in-game reward/recognition, for a deathless feat could be allowing a wide range of user experiences. Or indeed, a range of potential avenues for a user to circumvent the intent of the developer's challenge.
+
+### CE definition of q2m
+
+In the context of CE, we define 'quitting to menu' or q2m to mean:
+::: tip {no-title}
+The act of returning to a previous point in gameplay as a means of avoiding an inevitable death, or obviously bad outcome.
+:::
+
+Two things need to be true for it to be problematic in the context of a CE challenge:
+1. The player must be in a situation where death is either guaranteed, or very obviously likely. In other words, saving oneself through normal gameplay is either impossible or very unlikely.
+2. The action taken by the player returns them to some previous state of the game prior to the situation in which they were likely to die.
+
+Points of clarification:
+- From point 1, if a player uses quit to menu, but are not in a state of guaranteed or likely death, a run would not be disqualified.
+  - An example would be accidentally selecting a level they'd already completed in a [Super Meat Boy](https://cedb.me/game/3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d) deathless chapter. Leaving to the overworld before having moved your character is not quitting to menu to avoid death.
+- From point 2, if the action a player takes alters the course of gameplay, but does not rewind time, then using it to save yourself from death is acceptable.
+  - One example might be a game with multiple characters that can be switched between - if the user is playing as a character who is in the process of falling into a pit, but can pause the game, switch to a character with a double jump, unpause, and then use the mid-air jump to get out of the pit before dying.  
+  This is a gameplay mechanic where pausing to perform some action to save yourself would be acceptable.
+- Whilst the term q2m refers to the use of a 'menu', the definition applies to circumstances where a 'restart room' (or similar) action may be bound to a particular key.
+  - For example, the game [Garbanzo Quest](https://cedb.me/game/76ee4be2-007a-4df5-a452-a4fb040553e1) has an option to bind "Restart Room" and "Return to Overworld" to keys on a keyboard/controller. The use of these bound buttons don't explicitly invoke the use of a menu, but enable 'returning to a previous point in gameplay'. As such, they fall within the q2m definition.
+
+### Historical treatment
+
+Across CE's history there have been a number of different approaches to challenges that are impacted by q2m, depending on:
+- The approach the user that proposed the objective's value took.
+  - If q2m was used, was the value of the challenge potentially understated?
+- The moderator that approved the objective's value / inclusion on the site.
+  - Were they aware of the q2m possibilities?
+  - Do they have a differing view to other mods on whether q2m is acceptable for a given game?
+- How 'easy' it is to revoke a death through use of q2m.
+  - Is there a long period before 'actually' dying where the user can pause + q2m?
+  - Is the game really fast-paced, and is being able to quickly respond to q2m considered an expression of player skill?
+
+This created a diverse range of outcomes on the site, and confusion amongst users on the appropriate treatment of these objectives as a result.
+
+### Ruling on q2m 
+
+It is the CE Administrative team's view that, whether functionally allowed within a game or not, the use of q2m bypasses the developer's intent (see: the [DIRE framework](/general/details/dire)) in creating a deathless challenge.
+
+::: danger {no-title}
+Any newly-created objective <b><u>from the 29th of October 2026</u></b> (the date of this wiki entry's creation) will not allow the use of q2m.
+
+Should the mechanics of a developer's implementation of a deathless challenge allow the reward/recognition to be attained with the use of q2m, then video proof will be required for the objective.
+:::
 
 
 ## Cheating 
