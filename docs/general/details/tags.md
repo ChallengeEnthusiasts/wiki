@@ -97,7 +97,7 @@ The current list of supported genres, and a brief description, are detailed belo
 | Retro | Retro: {Console name} | The specific console the game was released on. |
 | Retro | Retro: Console Group | The console grouping (Nintendo/Sony/etc) per CE's classifications. |
 | Site Achievement | Animal Protagonist | The main character is a non-human animal. |
-| Site Achievement | Female Protagonist | The main character is a human female. |
+| Site Achievement | Female Protagonist | The main character is a human or anthropomorphic female. |
 | Site Achievement | Loop Featured | The game is used on the CE homepage, in one of the loops. |
 | Site Achievement | Mouse Focused | The game's primary means of control is with a mouse. |
 | Site Info | Casino Excluded | The game is not rollable in the Casino; this may be due to in-game exploits/cheese, quality reasons, or otherwise. |
