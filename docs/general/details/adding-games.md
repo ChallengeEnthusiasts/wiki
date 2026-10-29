@@ -11,31 +11,35 @@ We use a system of forum posts to add new games to our database or make changes 
 The following sections are an expanded ruling of what you would find in the forum.
 
 ::: warning IMPORTANT
-Only users on *C rank* and above can make recommendation posts. 
+Only users on *C rank* and above can create a new recommendation post. 
 
-It is very difficult to be able to talk about values properly when you lack enough reference points, which is why we require C rank to prevent minimal flood. Thread discussions, however, are open to everyone, and when making a thread for anything you should be prepared for this. 
+It is very difficult to be able to talk about values properly when you lack a frame of reference for the value suggestion. As such, we require a user to be C rank to ensure at least some familiarity with the CE values.
+
+Thread discussions are open to everyone though - feel free to contribute!
 :::
 
-Not everyone is going to always agree with your suggestions or assessment of a games difficulty. It is ultimately up to the mods/reps what happens with recommendations and they will more than likely ask you several clarifying questions before making a decision, as well as pinging other people who may have also played the game in the group, referencing clear times of other people, etc. 
+Not everyone is going to always agree with your suggestions or assessment of a games difficulty<sup>[citation needed]</sup>.
 
-## Behavior notes (global)
-These apply for EVERY type of thread that you can make.
-- Check if the game wasn't talked about already. You could be repeating past history.
-- Be sure to reply to any questions regarding the game if you know the answer.
-- The post will likely need to be active for at least one full day before any action is taken on your recommendation to allow some time for others to contribute. **Do not hurry the mods**, they're all volunteers and doing their best to curate a good addition/change. If it has been a full week without activity you may bump it up again if needed.
-- While discussing (and this applies to all post members), try to not deviate the theme of the thread too much. Focus on discussion and don't turn it into a sticker flood or simple progress thread.
-- Mods reserve the right to lock and ignore threads if needed.
+It is ultimately up to the mods to assess the merits brought forward in a recommendation thread - they will more than likely ask you clarifying questions before making a decision, as well as pinging other people who may have also played the game in the group, referencing clear times of other people, etc. 
+
+::: danger BEFORE CREATING A RECOMMENDATION THREAD
+1. Check if a thread for the game already exists - reopen an old thread, rather than creating a new one, to consolidate relevant discussion!
+2. Be available to respond to any questions regarding the game, the proposed objective structure etc.
+3. Have patience.. the mods are all volunteers and do their best to curate a good addition/change. If it has been a full week without activity you may bump it up again if needed.
+:::
+
+
 
 ## What can be suggested
 You may want to...
 - Suggest that a game could be challenging enough for the site (a [potential](#potentials)).
-- Suggest a game to be added (a [game addition](#game-additions)).
+- Suggest a game to be added (a [game addition](#game-additions)), subject to our [Quality Guidelines](#quality-guidelines).
 - Suggest some aspects of the game or an objective to be added, changed, buffed or nerfed (an [adjustment](#adjustments)).
   - If these changes are purely aesthetic (icons, typos, wording, etc), move it to ```#aesthetic-feedback```, which is directly below the recommendations forum It also has more relaxed rules.
 - Suggest a removal of a game from the site (a [removal](#removals)).
 
 
-## Potentials
+### Potentials
 
 Everything starts from somewhere. There are tens of thousands of games on Steam and not everyone knows what secrets they hide in-between.
 If you see any game that has hints of being challenging enough for our site (either because you tried it, or it has low% achievements, or there are secrets you saw in a stream, or whatever else) and wasn't added to the site yet, you can suggest it as a potential for someone else to check it.
@@ -52,7 +56,7 @@ This is the basis from the site is built upon.
 
 A game is a candidate for being added as long as the game presents enough challenge to meet at least the Tier 1 threshold
 
-include the tier, category, and point estimate for the game along with the suggested objectives and which achievements / in game feats should be included. Optionally, you're free to include a suggested name and icon along with each objective.
+Include the tier, category, and point estimate for the game along with the suggested objectives and which achievements / in game feats should be included. Optionally, you're free to include a suggested name and icon along with each objective.
 
 ### Details to consider
 - You must have completed ALL or AT LEAST ONE relevant challenge/objective in the game for your suggestion to be valid. This is meant both as a confirmation that you know about the game and its value, and because otherwise it's no different than suggesting it for potentials.
@@ -75,7 +79,7 @@ Games on Early Access are subject to some scrutiny. It'd be better if **their co
 
 Games that have online-only content are allowed too, but your points are not guaranteed to stay if they're taken down.
 
-### Extras
+### 5-point game additions
 If you are recommending a low Tier 1 game (5 points total), consider trying one of the free games from the respective category as a point of comparison. These games are free and generally at the lower end of the point of entry for a game on the list. Make sure you are confident the game you are suggesting is harder than the ones listed below.
 
 [Flem](https://cedb.me/game/1b6399d1-b078-4d4f-8e09-7257f43d165d) (Platformer) | [Dispersio 2](https://cedb.me/game/e835c13e-f294-4573-bfe3-d6c3cf904c2f) (Action) | [Neon Boost](https://cedb.me/game/db21aec8-327f-45ba-bc59-579775c34092) (First Person) | [Prologue for a Vacant Kingdom](https://cedb.me/game/8a77237e-2293-4838-a297-5357e131fdde) (Bullet Hell) | [Project Rhombus](https://cedb.me/game/4095099a-70e2-4319-9822-0c76939f5bcd) (Arcade) | [Peggle Extreme](https://cedb.me/game/5381856b-3256-4ff6-914b-6cfd1b6e3813) (Strategy)

@@ -106,7 +106,7 @@ The current list of supported genres, and a brief description, are detailed belo
 | Site Info | Has Secondary Objectives | The game has [Secondary Objectives](/general/details/objectives#secondary-objectives). |
 | Site Info | Uncleared | The game has an objective that has not been cleared by anyone on CE, or that has not had a value determined. |
 | Steam Info | Delisted | The game is not available for purchase on Steam. |
-| Steam Info | Overwhelmingly Positive | The game has an Overwhelmingly Positive rating on Steam (95%+ positive reviews, with at least 500 reviews). The tag may be preserved if a game falls below the 95% threshold, but will be removed if it falls below 90%. |
+| Steam Info | Overwhelmingly Positive | The game has an Overwhelmingly Positive rating on Steam (95%+ positive reviews across *all languages*, with at least 500 reviews).<br>Once applied, the tag may be preserved if a game falls below the 95% threshold, but will be removed if it falls below 90%. |
 
 
 ### Previously-proposed tags

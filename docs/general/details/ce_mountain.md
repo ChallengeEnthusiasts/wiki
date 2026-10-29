@@ -121,9 +121,8 @@ This might be in VSRGs, Trials, Aim Trainers etc.
 
 << SOMETHING ON SKILL TRANSFER >>
 
-## Examples of values in practice
-
-### [Cloudberry Kingdom](https://cedb.me/game/95dc81da-a00b-48f0-9d44-a6298fd22d4d)
+## An example in practice
+[Cloudberry Kingdom](https://cedb.me/game/95dc81da-a00b-48f0-9d44-a6298fd22d4d){style="font-size: 1.4em"}
 
 The checkpoints for this game are:
 1. ```25 points``` Beating the first 318 levels 
@@ -144,19 +143,4 @@ You may choose to visualise these checkpoints using the 'difficulty x effort' an
 2. A difficulty of 10 and an effort of 9 (a notional 'CE value' of ```90```)
 3. A difficulty of 7 and an effort of 7 (a notional 'CE value' of ```49```)
 
-Whilst the relativity of this hypothetical allocation of difficulty and effort don't align perfectly to the relativity of objective points, they provide an indication of how the objectives' relative values might be determined.
-
-### Example 2
-
-<< WITH TEXT >>  
-
-Any other good illustrations? Maybe a T2 vs T1?  
-Or games with a single YOLO vs many sub-components?
-
-<< WITH TEXT >>  
-
-### Example 3
-
-<< WITH TEXT >>  
-<< WITH TEXT >>  
-<< WITH TEXT >>  
+Whilst the relativity of this hypothetical allocation of difficulty and effort don't align perfectly to the relativity of objective points, they provide an indication of how the objectives' relative values might be determined.  
