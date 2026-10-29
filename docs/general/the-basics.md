@@ -72,8 +72,8 @@ A manual sync is typically faster than a full Steam account sync, given the amou
 
 Games not linked to your CE profile can be added individually this way, and the achievements associated with the game can likewise be synced.
 
-::: warning UPDATE FREQUENCY
-Individual game syncing can be initiated once every 5 minutes.
+::: info UPDATE FREQUENCY
+Individual game syncing can be initiated a few times every 2 minutes.
 :::
 
 -----
