@@ -42,7 +42,7 @@ Across many games found on CE, the 'deathless' / 'permadeath difficulty' / YOLO 
 
 Developers' implementation of these deathless feats are, unfortunately, not consistent. At one end of the spectrum, a game may invalidate a deathless run when the user saves at all, and at the other end, a game may [only invalidate a run after a several-second death animation completes, but not if 'return to menu' is selected](https://cedb.me/game/9608be0e-147f-4302-9d99-4b95407dd19a).
 
-In the case of the latter, a user could collide with an obstacle that results in them dying, but 'return to the main menu to prevent the game from counting this as a death', and still have activate the trigger to earn the 'deathless' achievement.
+In the case of the latter, a user could collide with an obstacle that results in them dying, but 'return to the main menu to prevent the game from counting this as a death', and still activate the trigger to earn the 'deathless' achievement.
 
 This act of 'returning to the main menu to save oneself from death, then continue the deathless run' is where the term "quit to menu", or "q2m", was born.
 
